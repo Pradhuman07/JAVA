@@ -2,7 +2,7 @@ SHORTCUTS:-
 
 run:- alt + r
 open/close explorer :-   alt + 1
-format code :-
+format code :- alt + l
 
 long x = 999_999_999_999_999;
 
