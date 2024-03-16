@@ -14,20 +14,20 @@ Day 1	--Installation of Java & Intellij IDEA
 		--Running a Java program
 
 Day 2	--Comments
-			--Single Line // 
+			--Single Line //
 			--Multi line /* comments */
 		--Understanding the need of a variable
 		--Intro to data types
 			--int - stores integers Ex - 1 2 3
 			--String - stores combination of characters Ex - "Shery"
-		--Variables 
+		--Variables
 			--can contain Data or Object References (DTL)
 			--Variable declation, Initialization
 		--Role of + operator between String & numbers
 			--String + String = String - Concatenation
 			--String + int = String - Concatenation
 			--int + int = int - Arithmetic Addition
-	
+
 Day 3	--Naming Convention for Class/Variable/Method name - identifiers
 			--Must start with an alphabet or _ or $
 			--Can end with a alphabet or _ or $ or numeric digit
@@ -54,8 +54,8 @@ Day 4	--Literal or constant
 					--Intro to Number Systems - Binary, Octal, Decimal, HexaDecimal
 					--float( suffix -  f or F ), double( suffix - d or D - Optional)
 					--Every floating constant in java is double by default
-				--Non Numeric 
-					--boolean, allowed values - true or false            
+				--Non Numeric
+					--boolean, allowed values - true or false
 					--char - UNICODE (ASCII is a subset of UNICODE)
 						--Range - 0 to 65,535
 						--char can hold a equivalent int value
@@ -68,7 +68,7 @@ Day 5	--API - Application Programming Interface
 		--Understanding Java in built API library
 		--Reading Inputs from User
 		--Scanner Class - Present inside java.util package
-			--Steps to use Scanner API	
+			--Steps to use Scanner API
 				Import Scanner class - import java.util.Scanner;
 				Create Instance - Scanner sc = new Scanner(System.in);
 				Use methods to read respective data
@@ -81,11 +81,11 @@ Day 5	--API - Application Programming Interface
 			--Standard Input - STDIN (System.in), Output - STDOUT (System.out)
 			--Problem with nextLine method
 				--If nextLine is used right after any scanner method then it will not work properly.
-				--Remember to use a dummy nextLine method after reading nextXYZ data 
+				--Remember to use a dummy nextLine method after reading nextXYZ data
 				   which will pick the newline character
 			--Introduction to JAVA DOCUMENTATION
 
-Day 6	--Operators in Java 
+Day 6	--Operators in Java
 		--Unary, Binary
 		--Arithmatic +, -, *, /, %, ++, --
 			--int/int will always yields int
@@ -109,7 +109,7 @@ Day 7	--Package
 			--package statement should be the first line in the java code file
 			--Used to group a similar set of classes (code management)
 			--Default Library package imported by default in every Java class
-				java.lang.* 
+				java.lang.*
 
 		--Math class - Present inside java.lang
 			--abs(int a) - Returns the unsigned value
