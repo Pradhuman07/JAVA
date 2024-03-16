@@ -1,7 +1,7 @@
 package Basics;
 
-public class Hello {
+public class Hii {
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("kjshfkjhsdkjfh");
     }
 }
