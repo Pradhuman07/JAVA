@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4a84bd-704f-4974-8d40-33e661dd2bbf" name="Changes" comment="New Files">
-      <change afterPath="$PROJECT_DIR$/src/Basics/Unicode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_Notes/_00_JavaCore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_Notes/_01_Effective100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/_02_NumberProgramTrick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics/Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/Concatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/_00_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_00_Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/_01_Unicode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/_02_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_01_Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/Questions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/_00_Syllabus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notes/_01_JavaNotes_TillControlFLow.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/_00_Notes/_02_Notes_Till_ControlFLow.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,42 +72,27 @@
     "Application.NewWorld.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Unicode.executor": "Run",
+    "Application._01_Unicode.executor": "Run",
+    "Application._02_NumberProgramTrick.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\JAVA\src\_01_Basics" />
+      <recent name="D:\JAVA\JAVA\src\_00_Notes" />
       <recent name="D:\JAVA\JAVA\src\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Unicode">
-    <configuration name="Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Concatenation" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._02_NumberProgramTrick">
     <configuration name="HiWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HiWorld" />
-      <module name="JAVA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JAVA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,7 +103,7 @@
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.*" />
+          <option name="PATTERN" value="_01_Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +111,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unicode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.Unicode" />
+    <configuration name="_01_Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Basics._01_Concatenation" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Basics.*" />
+          <option name="PATTERN" value="_01_Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_Unicode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Basics._01_Unicode" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_Basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_NumberProgramTrick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_Basics._02_NumberProgramTrick" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_Basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Unicode" />
-        <item itemvalue="Application.Concatenation" />
+        <item itemvalue="Application._02_NumberProgramTrick" />
+        <item itemvalue="Application._01_Unicode" />
+        <item itemvalue="Application._01_Concatenation" />
         <item itemvalue="Application.NewWorld" />
         <item itemvalue="Application.HiWorld" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710613923178</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="New Files">
+      <option name="closed" value="true" />
+      <created>1710616847821</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710616847821</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
