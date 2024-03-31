@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4a84bd-704f-4974-8d40-33e661dd2bbf" name="Changes" comment="New Files">
-      <change afterPath="$PROJECT_DIR$/src/_01_Basics/_03_ASCII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/_04_Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_IfElse/_01_Gender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_00_Notes/_00_JavaCore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_00_Notes/_00_JavaCore.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_00_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_00_Notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Application.Concatenation.executor&quot;: &quot;Run&quot;,
     &quot;Application.HiWorld.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
@@ -65,6 +65,7 @@
     &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Unicode.executor&quot;: &quot;Run&quot;,
     &quot;Application._01_Concatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_Gender.executor&quot;: &quot;Run&quot;,
     &quot;Application._01_Unicode.executor&quot;: &quot;Run&quot;,
     &quot;Application._02_NumberProgramTrick.executor&quot;: &quot;Run&quot;,
     &quot;Application._03_ASCII.executor&quot;: &quot;Run&quot;,
@@ -264,11 +265,20 @@
       <option name="project" value="LOCAL" />
       <updated>1710786987685</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="New Files">
+      <option name="closed" value="true" />
+      <created>1711867343504</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711867343504</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="New Files" />
     <option name="LAST_COMMIT_MESSAGE" value="New Files" />
   </component>
