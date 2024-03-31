@@ -1,10 +1,13 @@
 SHORTCUTS:-
 
         run                   = alt + r
+
         open/close explorer   = alt + 1
+        close panel tab       = ctrl + j
+
         format code           = alt + f
         word wrap             = alt + w
-        close panel tab       = ctrl + j
+
         close tabs            = ctrl + f4
         rename                = f2
 
@@ -14,5 +17,3 @@ float a=4.0;   //error...as 4.0 is double and double cannot be stored in float
 --int/int will always yields int (even if you store it in double) (if you want ans in point then make any of a or b ine expression a/b float/double)
 
 long x = 999_999_999_999_999;
-
-ASCII is a small portion of UNICODE

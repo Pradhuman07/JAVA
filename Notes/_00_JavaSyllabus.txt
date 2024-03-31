@@ -22,11 +22,13 @@ Day 2	--Comments
 			--String - stores combination of characters Ex - "Shery"
 		--Variables
 			--can contain Data or Object References (DTL)
-			--Variable declation, Initialization
-		--Role of + operator between String & numbers
-			--String + String = String - Concatenation
-			--String + int = String - Concatenation
-			--int + int = int - Arithmetic Addition
+			--Variable declaration [int a;], Initialization [int a=5;]
+        --Concatenation
+		    --Role of + operator between String & numbers
+                --int + int = int - Arithmetic Addition
+                --String + String = String - Concatenation
+                --String + int = String - Concatenation
+                --int + String  = String - Concatenation
 
 Day 3	--Naming Convention for Class/Variable/Method name - identifiers
 			--Must start with an alphabet or _ or $
@@ -35,30 +37,38 @@ Day 3	--Naming Convention for Class/Variable/Method name - identifiers
 			--No reserved keyword
 		--Java is CASE SENSITIVE
 		--Cases and Conventions for clean and readable code.
-			--PascalCase - Class & Interface
-			--camelCase  - variable and method name
+			--PascalCase - Class & Interface  [System.out , Scanner , System.in]
+			--camelCase  - variable and method name [println , nextInt]
 		--Game of brackets
 			--( ) - Methods                 - Parantheses
-			--{ } - Scope/body          - Curly
-			--[ ] - Array                     - Square
-			--<> - Generics                - Angular
+			--{ } - Scope/body              - Curly
+			--[ ] - Array                   - Square
+			--<> - Generics                 - Angular
 
 Day 4	--Literal or constant
 		--Data Types - Graphic
 			--Primitive or Pre-defined
 				--Integer  --why 4 ?
-					--byte, short, int, long( l or L suffix )
+					--byte, short, int, long( l or L suffix ) (long x = 999_999_999;)
+					        byte = -128 to 127;         [-2^7 to 2^7-1]
+					        short = -32,768 to 32,767   [-2^15 to 2^15-1]
+					        int = -214,748,3648 to 214,748,3647   [-2^31 to 2^31-1]
 					--Every Integer constant in java is int by default
 				--Floating Points
 					--Stop calling these decimal numbers
 					--Intro to Number Systems - Binary, Octal, Decimal, HexaDecimal
 					--float( suffix -  f or F ), double( suffix - d or D - Optional)
-					--Every floating constant in java is double by default
+					--Every floating constant in java is double by default.
+                                        float x = 14; no error  [int in float]
+                                        float x = 14.0; error [double in float]
+                              float =  3.4e-038 to 3.4e+038
+                              double = 1.7e-308 to 1.7e+308
 				--Non Numeric
 					--boolean, allowed values - true or false
 					--char - UNICODE (ASCII is a subset of UNICODE)
 						--Range - 0 to 65,535
 						--char can hold a equivalent int value
+						-- ' ' = 32 ; 0=48 ; A=65; a=97;
 			--Non Primitive
 				--User defined or Custom data types
 				--String literals
@@ -75,7 +85,7 @@ Day 5	--API - Application Programming Interface
 			--nextByte(), nextShort(), nextInt(), nextLong(), nextFloat(), nextDouble(), nextBoolean()
 			--Reading String Data
 				--nextLine() - Reads the whole line
-				--next()        - Reads the first word
+				--next()     - Reads the first word
 			--Reading char data
 				--nextLine().charAt(0)
 			--Standard Input - STDIN (System.in), Output - STDOUT (System.out)
@@ -88,14 +98,16 @@ Day 5	--API - Application Programming Interface
 Day 6	--Operators in Java
 		--Unary, Binary
 		--Arithmatic +, -, *, /, %, ++, --
-			--int/int will always yields int (even if you store it in double) (if you want ans in point then make any of a or b ine expression a/b float/double)
+			--int/int will always yields int (even if you store it in double) (if you want ans in point then make any of a or b in expression a/b float/double)
 			--Modulo can work with int (works perfactly) as well as floats (produces unambiguity)
 			--Increment/Decrement operators can only be applied on variables, not on constants.
-				--Pre	++a
-				--Post     a++
+				--Pre	++a , --a , ++ch , --ch
+				--Post  a++ , a-- , ch++ , ch--
+
 			--Special powers of / & % by powers of 10
 				--/ to reduce the number
 				--% to get last digit(s) of number
+
 		--Relational <, >, <=, >=, ==, !=
 			--Returns values in boolean - true or false
 		--Logical &&, ||, !
