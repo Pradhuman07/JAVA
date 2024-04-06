@@ -2,9 +2,10 @@ package _01_Basics;
 
 public class _02_NumberProgramTrick {
     public static void main(String[] args) {
-// Special powers of / & % by powers of 10
-// #(/) to reduce the number
-// #(%) to get last digit(s) of number
+
+    // Special powers of / & % by powers of 10
+    // #(/) to reduce the number
+    // #(%) to get last digit(s) of number
 
         System.out.println(125 / 10);
         System.out.println(125 / 100);

@@ -5,9 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4a84bd-704f-4974-8d40-33e661dd2bbf" name="Changes" comment="New Files">
-      <change afterPath="$PROJECT_DIR$/src/_01_Basics/_04_Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_IfElse/_01_Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ1_SumOf2no.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ2nQ3_WithMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ4_NamenAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ5_IncDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ6_Swapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/_04_Swaping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/_05_TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Math/AllMathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ10_Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ11_Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ7_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ8_CI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ9_HeronsFormula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ12_MaxNoBw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ13n14_GoodMorning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ15_EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ16_ProblemWithNextLineMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ17_WeakDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ18_M1_Cheap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ18_M2_Best_GreatestBWnNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ18_M3_LYW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ19_LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ20_Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ21_Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ22_Vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q1_MovieRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q2_Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q1_EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q2_Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q3_LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Q1_12Months.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Q2_ProfitLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Q3_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Q4_AlphaOrNumOrSpChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Q5_StudentResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Whizz8_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Whizz8_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/_00_JavaSyllabus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/_00_Syllabus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/_01_Effective100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/_01_Effective100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_00_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_00_Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_01_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_01_Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_02_NumberProgramTrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_02_NumberProgramTrick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_04_Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_IfElse/_01_Gender.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,44 +96,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Concatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HiWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NewClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NewWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unicode.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Concatenation.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Gender.executor&quot;: &quot;Run&quot;,
-    &quot;Application._01_Unicode.executor&quot;: &quot;Run&quot;,
-    &quot;Application._02_NumberProgramTrick.executor&quot;: &quot;Run&quot;,
-    &quot;Application._03_ASCII.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Concatenation.executor": "Run",
+    "Application.EQ1.executor": "Run",
+    "Application.EQ10.executor": "Run",
+    "Application.EQ11.executor": "Run",
+    "Application.EQ13n14.executor": "Run",
+    "Application.EQ15.executor": "Run",
+    "Application.EQ16.executor": "Run",
+    "Application.EQ16_ProblemWithNextLineMethod.executor": "Run",
+    "Application.EQ17.executor": "Run",
+    "Application.EQ18.executor": "Run",
+    "Application.EQ18_M2_Best.executor": "Run",
+    "Application.EQ18_M3_LYW.executor": "Run",
+    "Application.EQ19.executor": "Run",
+    "Application.EQ2.executor": "Run",
+    "Application.EQ20.executor": "Run",
+    "Application.EQ22.executor": "Run",
+    "Application.EQ4.executor": "Run",
+    "Application.EQ7.executor": "Run",
+    "Application.EQ8.executor": "Run",
+    "Application.EQ9.executor": "Run",
+    "Application.HiWorld.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MovieRating.executor": "Run",
+    "Application.NewClass.executor": "Run",
+    "Application.NewWorld.executor": "Run",
+    "Application.Q1.executor": "Run",
+    "Application.Q1_EvenOdd.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Q3_LeapYear.executor": "Run",
+    "Application.Salary.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.Unicode.executor": "Run",
+    "Application.Whizz8.executor": "Run",
+    "Application.Whizz8_next.executor": "Run",
+    "Application._00_Info.executor": "Run",
+    "Application._01_Concatenation.executor": "Run",
+    "Application._01_Gender.executor": "Run",
+    "Application._01_Unicode.executor": "Run",
+    "Application._02_NumberProgramTrick.executor": "Run",
+    "Application._03_ASCII.executor": "Run",
+    "Application._04_Swap.executor": "Run",
+    "Application._05_TypeCasting.executor": "Run",
+    "Application.tryerror.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JAVA\JAVA\src\_01_Basics" />
+      <recent name="D:\JAVA\JAVA\src" />
       <recent name="D:\JAVA\JAVA\src\_00_Notes" />
       <recent name="D:\JAVA\JAVA\src\Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._01_Concatenation">
-    <configuration name="NewWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.NewWorld" />
+  <component name="RunManager">
+    <configuration name="EQ17_WeakDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_IfElse.EQ_12To22.EQ17_WeakDays" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_Basics.*" />
+          <option name="PATTERN" value="_03_IfElse.Whizz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,10 +229,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application._01_Concatenation" />
+        <item itemvalue="Application.EQ17_WeakDays" />
         <item itemvalue="Application._03_ASCII" />
         <item itemvalue="Application._02_NumberProgramTrick" />
         <item itemvalue="Application._01_Unicode" />
-        <item itemvalue="Application.NewWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +348,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711867343504</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="New Files">
+      <option name="closed" value="true" />
+      <created>1711887424366</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1711887424366</updated>
+    </task>
+    <task id="LOCAL-00014" summary="New Files">
+      <option name="closed" value="true" />
+      <created>1711887635582</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711887635582</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

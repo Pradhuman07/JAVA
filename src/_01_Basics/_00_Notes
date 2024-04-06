@@ -17,3 +17,13 @@ float a=4.0;   //error...as 4.0 is double and double cannot be stored in float
 --int/int will always yields int (even if you store it in double) (if you want ans in point then make any of a or b ine expression a/b float/double)
 
 long x = 999_999_999_999_999;
+
+a%b --> (0,b-1)
+Eg:- something%3 = 0,1,2    [let something = 3,4,5,6,7 ...now check]
+
+if Nr<Dr then Nr%Dr=Nr always
+
+camelCase - for naming Variables and Methods  [nextInt(),println()]
+PascalCase - for naming Classes  [Scanner]
+
+for packages - small or camelCase

@@ -1,4 +1,4 @@
----------------------------------------------------------------BASICS Day 1 to 6-------------------------------------------------------------------------
+------------------------------BASICS Day 1 to 6--------------------------------------------------------
 
 1 - Sum of two integers
 2- Print the messege along with values and sum
@@ -12,7 +12,7 @@
 6- Accept two numbers from user and swap their values
                 Part 2 - Swap without using third variable
 
---------------------------------------------------------------MATH CLASS Day 7---------------------------------------------------------
+-----------------------------------------MATH CLASS Day 7------------------------------------
 
 7- Accept the length and width of a rectangle. Calculate & print the area and perimiter.
 8- Accept the parameters and calculate the Compound Interest & print it on STDOUT (Use Math class methods)
@@ -20,7 +20,7 @@
 10- Find surface area of sphere
 11- Find circumference and area of circle
 
---------------------------------------------------------------IF ELSE Day 8 to 11-------------------------------------------------------------
+------------------------IF ELSE Day 8 to 11-------------------------------------------
 
 12- Accept two numbers and print the greatest between them
 13- Accept the gender from the user as char and print the respective greeting message
@@ -38,9 +38,9 @@
 19- Accept a year and check if it a leap year or not (google to find out what's a leap year)
 20- Shop discount - Description on Graphic
 21- Bijli Bill - Description on Graphic
-22- Accept an english alphabet from user and check if it is a consonent or a vowel;
+22- Accept an english alphabet from user and check if it is a consonent or a vowel.
 
-------------------------------------------------------------------LOOPS Day 12 to 16---------------------------------------------------------------
+------------------------------LOOPS Day 12 to 16----------------------------------------
 
 23- Accept an integer and Print hello world n times
 24- Print natural number up to n.
