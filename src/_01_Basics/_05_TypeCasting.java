@@ -40,3 +40,8 @@ public class _05_TypeCasting {
             System.out.println(r2);
     }
 }
+
+//Note : Shorthand operators do implicit conversion.
+//byte b = 1;
+//b=b+2; // error , 2 is int(all non-float by default int) so can’t store in byte
+//b += 2; // works perfectly as += did not do implicit conversion

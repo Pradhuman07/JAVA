@@ -21,6 +21,11 @@ public class EQ20_Discount {
         else if(tot>7000 && tot<10000) dis = 20.00/100;
         else dis = 30.00/100;
 
+//        if(tot<5000) dis = 0 ;
+//        else if(tot<7000) dis = 10.00/100;
+//        else if(tot<10000) dis = 20.00/100;
+//        else dis = 30.00/100;
+
         System.out.println("Your discount is: " + (dis*tot) );
         System.out.println("Amount to be paid is: " + ( tot - (dis*tot) ) );
     }

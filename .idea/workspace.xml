@@ -5,51 +5,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4a84bd-704f-4974-8d40-33e661dd2bbf" name="Changes" comment="New Files">
-      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ1_SumOf2no.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ2nQ3_WithMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ4_NamenAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ5_IncDec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ6_Swapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Basics/_04_Swaping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_Basics/_05_TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_Math/AllMathFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ10_Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ11_Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ7_Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ8_CI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ9_HeronsFormula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ12_MaxNoBw2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ13n14_GoodMorning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ15_EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ16_ProblemWithNextLineMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ17_WeakDays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ18_M1_Cheap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ18_M2_Best_GreatestBWnNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ18_M3_LYW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ19_LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ20_Discount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ21_Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ22_Vowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q1_MovieRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q2_Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q1_EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q2_Discount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q3_LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Q1_12Months.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Q2_ProfitLoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Q3_Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Q4_AlphaOrNumOrSpChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Q5_StudentResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Whizz8_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/Whizz/Whizz8_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Pradyuman_s_Laptop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q3_Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q4_ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ23_HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ24_NaturalNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ25_ReverseNaturalNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ26_Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ27_Sn_Accumulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ28_Factorial_Accumulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ29_Range_EvenOdd_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ30_Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ31_SumOfFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ32_PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ33_MathPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/Q2_Approach2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/_00_PostMortom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/CountOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ34_SeparateDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ34_Separate_But_Seedhe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ35_SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ36_ReverseANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ36_ReverseWithTrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ37_Pallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ38_Strong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ39_Automorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/AbundantNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/FibbonaciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/HCF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/HarshadNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/Passage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/PerfectSqaure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_DoWhileLoop/EQ40_Syntax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_DoWhileLoop/EQ41_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_Switch/EQ_42_to_45/EQ42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_Switch/EQ_42_to_45/EQ43_Vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_Switch/EQ_42_to_45/EQ44_GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_Switch/Syntaxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_07_Switch/Theory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/PractiseSession/ABCDXYZSANDWATCH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_00_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_01_RAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_02_IRAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_03_MRAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_04_Pyramid_withTheHelpOf_MRAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_05_X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_06_V_withTheHelpOfUltaPyramid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/_00_JavaSyllabus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/_00_Syllabus.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/_01_Effective100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/_01_Effective100.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_00_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_00_Notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_01_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_01_Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/_00_Syllabus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Syllabus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/_01_Effective100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Effective100.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/_02_Notes_Till_ControlFLow.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Notes_TillControlFLow.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_01_Basics/_02_NumberProgramTrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_02_NumberProgramTrick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_04_Swap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_IfElse/_01_Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_03_ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_03_ASCII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_05_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_05_TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_Math/AllMathFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_Math/AllMathFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ20_Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ20_Discount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +71,7 @@
   </component>
   <component name="ChangesViewManager">
     <option name="groupingKeys">
+      <option value="directory" />
       <option value="module" />
     </option>
   </component>
@@ -99,7 +113,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AbundantNumber.executor": "Run",
+    "Application.AllMathFunctions.executor": "Run",
     "Application.Concatenation.executor": "Run",
+    "Application.CountOfDigits.executor": "Run",
     "Application.EQ1.executor": "Run",
     "Application.EQ10.executor": "Run",
     "Application.EQ11.executor": "Run",
@@ -115,33 +132,77 @@
     "Application.EQ2.executor": "Run",
     "Application.EQ20.executor": "Run",
     "Application.EQ22.executor": "Run",
+    "Application.EQ23_HelloWorld.executor": "Run",
+    "Application.EQ24_NaturalNum.executor": "Run",
+    "Application.EQ25_ReverseNaturalNum.executor": "Run",
+    "Application.EQ26_Table.executor": "Run",
+    "Application.EQ27_Sn.executor": "Run",
+    "Application.EQ28_EvenOddSum.executor": "Run",
+    "Application.EQ28_Factorial.executor": "Run",
+    "Application.EQ29_Factorial.executor": "Run",
+    "Application.EQ29_SumofEvenOdd.executor": "Run",
+    "Application.EQ30_Factors.executor": "Run",
+    "Application.EQ31_SumOfFactors.executor": "Run",
+    "Application.EQ32_Prime.executor": "Run",
+    "Application.EQ33_MathPow.executor": "Run",
+    "Application.EQ34_Separate.executor": "Run",
+    "Application.EQ34_SeparateDigits.executor": "Run",
+    "Application.EQ34_Separate_But_Seedhe.executor": "Run",
+    "Application.EQ35_Sum.executor": "Run",
+    "Application.EQ35_SumOfDigits.executor": "Run",
+    "Application.EQ36_ReverseANumber.executor": "Run",
+    "Application.EQ36_ReverseWithTrick.executor": "Run",
+    "Application.EQ37_Pallindrome.executor": "Run",
+    "Application.EQ38_StrongNum.executor": "Run",
+    "Application.EQ39_Automorphic.executor": "Run",
     "Application.EQ4.executor": "Run",
+    "Application.EQ42.executor": "Run",
+    "Application.EQ43_Vowels.executor": "Run",
+    "Application.EQ44_GuessGame.executor": "Run",
     "Application.EQ7.executor": "Run",
     "Application.EQ8.executor": "Run",
     "Application.EQ9.executor": "Run",
+    "Application.FibbonaciSeries.executor": "Run",
+    "Application.HarshadNumber.executor": "Run",
     "Application.HiWorld.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MovieRating.executor": "Run",
     "Application.NewClass.executor": "Run",
     "Application.NewWorld.executor": "Run",
+    "Application.PerfectSqaure.executor": "Run",
     "Application.Q1.executor": "Run",
     "Application.Q1_EvenOdd.executor": "Run",
     "Application.Q2.executor": "Run",
+    "Application.Q2_2ndApproach.executor": "Run",
     "Application.Q3.executor": "Run",
     "Application.Q3_LeapYear.executor": "Run",
+    "Application.Q4_ATM.executor": "Run",
+    "Application.Revision.executor": "Run",
     "Application.Salary.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Unicode.executor": "Run",
     "Application.Whizz8.executor": "Run",
     "Application.Whizz8_next.executor": "Run",
+    "Application._00_.executor": "Run",
+    "Application._00_Cheethad.executor": "Run",
     "Application._00_Info.executor": "Run",
+    "Application._00_PostMortom.executor": "Run",
+    "Application._01_Calculator.executor": "Run",
     "Application._01_Concatenation.executor": "Run",
     "Application._01_Gender.executor": "Run",
+    "Application._01_RAT.executor": "Run",
     "Application._01_Unicode.executor": "Run",
+    "Application._02_IRAT.executor": "Run",
     "Application._02_NumberProgramTrick.executor": "Run",
     "Application._03_ASCII.executor": "Run",
+    "Application._03_MRAT.executor": "Run",
+    "Application._04_Pyramid_withTheHelpOf_MRAT.executor": "Run",
     "Application._04_Swap.executor": "Run",
     "Application._05_TypeCasting.executor": "Run",
+    "Application._05_X.executor": "Run",
+    "Application._06_ImplicitConversion.executor": "Run",
+    "Application._06_V_withTheHelpOfUltaPyramid.executor": "Run",
+    "Application.pawan.executor": "Run",
     "Application.tryerror.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -364,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711887635582</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="New Files">
+      <option name="closed" value="true" />
+      <created>1712414940014</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712414940014</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

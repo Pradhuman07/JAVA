@@ -18,6 +18,8 @@
 //    --Math.abs(int a) - Returns the unsigned value
 //    --Math.PI,   - Exact value of Pi
 
+//    --( (int) Math.log10(n) + 1)  - For counting the no. of digits of n
+
 package _02_Math;
 import java.lang.Math;   //built in class h to auto import.
 public class AllMathFunctions {
@@ -38,6 +40,8 @@ public class AllMathFunctions {
 
         System.out.println(Math.abs(-5));
         System.out.println(Math.PI);
+
+        System.out.println((int)Math.log10(123456) + 1);
     }
 }
 

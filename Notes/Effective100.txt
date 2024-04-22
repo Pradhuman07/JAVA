@@ -50,14 +50,15 @@
        5 * 2 = 10 ... up to 10 terms
 27- Sum up to n terms.
 28- Factorial of a number
-29- Print the sum of all even & odd numbers in a range seperately.
+29- Print the sum of all even & odd numbers in a range separately.
 30- Print all the factors of a number.
 31- Print the sum of all factors of a number, 50 -> 1 + 2 + 5 + 10 + 25 = 43
 32- Check if the number is Prime or not.
 33- Write a program to take two inputs a, b & find the value of a  raised to the power of b.
 	Ex - a = 2, b = 5
 	OP - 2^5 = 32
-34- Seprate each digit of a number and print it on the new line ex - 123
+
+34- Separate each digit of a number and print it on the new line ex - 123
 	OP
 		3
 		2
@@ -65,25 +66,26 @@
 35- Sum of digits of a number, 936 = 18
 36- Accept a number and print its reverse
 37- Accept a number and check if it is a pallindromic number (If number and its reverse are equal)
-       Ex - 12321 - Rerverse - 12321
+       Ex - 12321 - Reverse - 12321
 38- Accept a number and check if it is a strong number or not (Sum of factorial of each digit)
        Ex- 145 = 1! + 4! + 5! = 145
-39- Automorphic number 5 = 25 = 625 = 390625, 6=36, 76 = 5776
+39- Automorphic number (5,25) (25,625) (6,36)
 
-------------------------------------------------------------DO WHILE, SWITCH Day 17 to 19--------------------------------------------------------
+--------------------------DO WHILE, SWITCH Day 17 to 19-----------------------------
 
 40- Print hello until user gives wrong input using do while
 41- Make a choice based calculator using do while
+
 42- Print Weekday using Switch
 43- Question 22 using Switch
-44- Project - Guess Game
+44- Project - Guess Game   [Binary Searchu]
       Write a program that generates a random number and asks the user to guess what the number is.
       If the user's guess is higher than the random number, the program should display "Too high, try again."
       If the user's guess is lower than the random number, the program should display "Too low, try again."
       The program should use a loop that repeats until the user correctly guesses the random number.
-45- Project Restuarent v 1.0
+45- Project Restaurent v 1.0
 
-------------------------------------------------------------NESTED LOOP / PATTERN Day 20 to 21----------------------------------------------
+-----------------------NESTED LOOP / PATTERN Day 20 to 21-----------------------------------
 
 46- Right Triangle - Star
 	*
@@ -132,8 +134,8 @@
 		  *   *
 		    *
 		 *     *
-	      *          *
----------------------------------------------------------------- -ARRAY Day 22 to 29-------------------------------------------------------------
+	   *          *
+---------------------------- -ARRAY Day 22 to 29--------------------------------------------
 
 54- Accept size n from user and create a n size array then take n inputs into the and finally
       Print the sum & Avg of all elements.

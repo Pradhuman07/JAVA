@@ -1,0 +1,47 @@
+ 3 needs of switch case
+            1) Ek variable hona chahiye
+            2) Ek constant hona chahiye variable
+            3) Operator only (==)
+
+    Note:-to use 2 variables make 1 as final variable
+
+--Switch statement
+			--Allowable data types - byte, short, char, int, String. (also wrapper classes of the same)
+
+			--Why not floating points ?
+					--Generates ambiguity (comparison is not perfect with floats)
+					        --Solution -> float ambiguity can be solved by using string
+					                            write inside the double codes
+
+			--switch don't check each and every case.
+
+			--multiple cases can be combined together with commas
+
+			--cant use the expressions as cases.
+				--Generates ambiguity
+
+			--every case must be unique.
+
+			--fall through condition in switch
+                --Java v14
+                    --Reducing boilerplate using arrow functions
+                    --No break statement required.
+                    --Switch Expression
+                        --yeild keyword
+
+                    Older Switch Case:-
+
+Break compulsary? No but without it expected answer ni aayega...due to fall through condition
+Last case me nhi lgate break bss kyoki wha se fall direct switch ke bahar hi hoga
+Default ko last mein hi likhte h isliye usmen break nhi lgate ..agr usko beech mein khi likho to lgao break
+
+break is necessary to avoid fall through situation
+
+Order wise likhna not zruri
+Switch are faster than if else as not all the cases are checked
+
+Default ko last mein nhi khi bhi lga skte h
+
+boilerplate:- code ka basic template basically syntax
+\n --> New Line Character (sout)
+break; is used within if/else i.e conditional Statements

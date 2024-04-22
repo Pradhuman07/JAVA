@@ -7,6 +7,8 @@ public class _02_NumberProgramTrick {
     // #(/) to reduce the number
     // #(%) to get last digit(s) of number
 
+        //IF Else Practise Session Q4_ATM
+
         System.out.println(125 / 10);
         System.out.println(125 / 100);
         System.out.println(125 / 1000);
