@@ -1,6 +1,6 @@
-package _08_PatternPrinting;
+package _08_PatternPrinting.Conditionals;
 
-public class _05_X {
+public class _01_X {
     public static void main(String[] args) {
         int n = 5;
 
@@ -15,3 +15,11 @@ public class _05_X {
         }
     }
 }
+
+//11 12 13 14 15            11              15
+//21 22 23 24 25                22      24
+//31 32 33 34 35    ==              33
+//41 42 43 44 45                42      44
+//51 52 53 54 55            51               55
+
+

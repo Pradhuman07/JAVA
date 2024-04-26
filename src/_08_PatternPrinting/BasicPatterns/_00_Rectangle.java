@@ -1,4 +1,4 @@
-package _08_PatternPrinting;
+package _08_PatternPrinting.BasicPatterns;
 public class _00_Rectangle {
     public static void main(String[] args) {
         int n = 4;

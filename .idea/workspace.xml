@@ -5,64 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4a84bd-704f-4974-8d40-33e661dd2bbf" name="Changes" comment="New Files">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Pradyuman_s_Laptop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q3_Discount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q4_ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ23_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ24_NaturalNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ25_ReverseNaturalNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ26_Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ27_Sn_Accumulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ28_Factorial_Accumulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ29_Range_EvenOdd_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ30_Factors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ31_SumOfFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ32_PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ33_MathPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/Q2_Approach2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_04_ForLoop/_00_PostMortom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/CountOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ34_SeparateDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ34_Separate_But_Seedhe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ35_SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ36_ReverseANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ36_ReverseWithTrick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ37_Pallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ38_Strong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ39_Automorphic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/AbundantNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/FibbonaciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/HCF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/HarshadNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/Passage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/PerfectSqaure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_DoWhileLoop/EQ40_Syntax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_DoWhileLoop/EQ41_Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_Switch/EQ_42_to_45/EQ42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_Switch/EQ_42_to_45/EQ43_Vowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_Switch/EQ_42_to_45/EQ44_GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_Switch/Syntaxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_07_Switch/Theory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/PractiseSession/ABCDXYZSANDWATCH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_00_Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_01_RAT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_02_IRAT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_03_MRAT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_04_Pyramid_withTheHelpOf_MRAT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_05_X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_06_V_withTheHelpOfUltaPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/ForVsWhile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_04_MIRAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_06_Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Array/_00_Syntax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/_00_Syllabus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Syllabus.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/_01_Effective100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Effective100.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/_02_Notes_Till_ControlFLow.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Notes_TillControlFLow.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_02_NumberProgramTrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_02_NumberProgramTrick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_03_ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_03_ASCII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_05_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_05_TypeCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_Math/AllMathFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_Math/AllMathFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ20_Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ20_Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/PractiseSession/ABCDXYZSANDWATCH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/Conditionals/ABCDXYZSANDWATCH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/_00_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_00_Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/_01_RAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_01_RAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/_02_IRAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_02_IRAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/_03_MRAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_03_MRAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/_04_Pyramid_withTheHelpOf_MRAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_05_Triangle_using_MRAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/_05_X.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/Conditionals/_01_X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/_06_V_withTheHelpOfUltaPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/Conditionals/_02_V_using_UltaTriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,118 +65,127 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.AbundantNumber.executor": "Run",
-    "Application.AllMathFunctions.executor": "Run",
-    "Application.Concatenation.executor": "Run",
-    "Application.CountOfDigits.executor": "Run",
-    "Application.EQ1.executor": "Run",
-    "Application.EQ10.executor": "Run",
-    "Application.EQ11.executor": "Run",
-    "Application.EQ13n14.executor": "Run",
-    "Application.EQ15.executor": "Run",
-    "Application.EQ16.executor": "Run",
-    "Application.EQ16_ProblemWithNextLineMethod.executor": "Run",
-    "Application.EQ17.executor": "Run",
-    "Application.EQ18.executor": "Run",
-    "Application.EQ18_M2_Best.executor": "Run",
-    "Application.EQ18_M3_LYW.executor": "Run",
-    "Application.EQ19.executor": "Run",
-    "Application.EQ2.executor": "Run",
-    "Application.EQ20.executor": "Run",
-    "Application.EQ22.executor": "Run",
-    "Application.EQ23_HelloWorld.executor": "Run",
-    "Application.EQ24_NaturalNum.executor": "Run",
-    "Application.EQ25_ReverseNaturalNum.executor": "Run",
-    "Application.EQ26_Table.executor": "Run",
-    "Application.EQ27_Sn.executor": "Run",
-    "Application.EQ28_EvenOddSum.executor": "Run",
-    "Application.EQ28_Factorial.executor": "Run",
-    "Application.EQ29_Factorial.executor": "Run",
-    "Application.EQ29_SumofEvenOdd.executor": "Run",
-    "Application.EQ30_Factors.executor": "Run",
-    "Application.EQ31_SumOfFactors.executor": "Run",
-    "Application.EQ32_Prime.executor": "Run",
-    "Application.EQ33_MathPow.executor": "Run",
-    "Application.EQ34_Separate.executor": "Run",
-    "Application.EQ34_SeparateDigits.executor": "Run",
-    "Application.EQ34_Separate_But_Seedhe.executor": "Run",
-    "Application.EQ35_Sum.executor": "Run",
-    "Application.EQ35_SumOfDigits.executor": "Run",
-    "Application.EQ36_ReverseANumber.executor": "Run",
-    "Application.EQ36_ReverseWithTrick.executor": "Run",
-    "Application.EQ37_Pallindrome.executor": "Run",
-    "Application.EQ38_StrongNum.executor": "Run",
-    "Application.EQ39_Automorphic.executor": "Run",
-    "Application.EQ4.executor": "Run",
-    "Application.EQ42.executor": "Run",
-    "Application.EQ43_Vowels.executor": "Run",
-    "Application.EQ44_GuessGame.executor": "Run",
-    "Application.EQ7.executor": "Run",
-    "Application.EQ8.executor": "Run",
-    "Application.EQ9.executor": "Run",
-    "Application.FibbonaciSeries.executor": "Run",
-    "Application.HarshadNumber.executor": "Run",
-    "Application.HiWorld.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MovieRating.executor": "Run",
-    "Application.NewClass.executor": "Run",
-    "Application.NewWorld.executor": "Run",
-    "Application.PerfectSqaure.executor": "Run",
-    "Application.Q1.executor": "Run",
-    "Application.Q1_EvenOdd.executor": "Run",
-    "Application.Q2.executor": "Run",
-    "Application.Q2_2ndApproach.executor": "Run",
-    "Application.Q3.executor": "Run",
-    "Application.Q3_LeapYear.executor": "Run",
-    "Application.Q4_ATM.executor": "Run",
-    "Application.Revision.executor": "Run",
-    "Application.Salary.executor": "Run",
-    "Application.Sum.executor": "Run",
-    "Application.Unicode.executor": "Run",
-    "Application.Whizz8.executor": "Run",
-    "Application.Whizz8_next.executor": "Run",
-    "Application._00_.executor": "Run",
-    "Application._00_Cheethad.executor": "Run",
-    "Application._00_Info.executor": "Run",
-    "Application._00_PostMortom.executor": "Run",
-    "Application._01_Calculator.executor": "Run",
-    "Application._01_Concatenation.executor": "Run",
-    "Application._01_Gender.executor": "Run",
-    "Application._01_RAT.executor": "Run",
-    "Application._01_Unicode.executor": "Run",
-    "Application._02_IRAT.executor": "Run",
-    "Application._02_NumberProgramTrick.executor": "Run",
-    "Application._03_ASCII.executor": "Run",
-    "Application._03_MRAT.executor": "Run",
-    "Application._04_Pyramid_withTheHelpOf_MRAT.executor": "Run",
-    "Application._04_Swap.executor": "Run",
-    "Application._05_TypeCasting.executor": "Run",
-    "Application._05_X.executor": "Run",
-    "Application._06_ImplicitConversion.executor": "Run",
-    "Application._06_V_withTheHelpOfUltaPyramid.executor": "Run",
-    "Application.pawan.executor": "Run",
-    "Application.tryerror.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AbundantNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllMathFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Concatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ13n14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ16_ProblemWithNextLineMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ18_M2_Best.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ18_M3_LYW.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ23_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ24_NaturalNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ25_ReverseNaturalNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ26_Table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ27_Sn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ28_EvenOddSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ28_Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ29_Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ29_SumofEvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ30_Factors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ31_SumOfFactors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ32_Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ33_MathPow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ34_Separate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ34_SeparateDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ34_Separate_But_Seedhe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ35_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ35_SumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ36_ReverseANumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ36_ReverseWithTrick.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ37_Pallindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ38_StrongNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ39_Automorphic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ42.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ43_Vowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ44_GuessGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EQ9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibbonaciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HarshadNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HiWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovieRating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PerfectSqaure.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1_EvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2_2ndApproach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q3_LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q4_ATM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Revision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Salary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unicode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Whizz8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Whizz8_next.executor&quot;: &quot;Run&quot;,
+    &quot;Application._00_.executor&quot;: &quot;Run&quot;,
+    &quot;Application._00_Cheethad.executor&quot;: &quot;Run&quot;,
+    &quot;Application._00_Info.executor&quot;: &quot;Run&quot;,
+    &quot;Application._00_PostMortom.executor&quot;: &quot;Run&quot;,
+    &quot;Application._00_Syntax.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_Concatenation.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_Gender.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_RAT.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01_Unicode.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_IRAT.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_NumberProgramTrick.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02_V_using_UltaTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_ASCII.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03_MRAT.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_MIRAT.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_Pyramid_withTheHelpOf_MRAT.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04_Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_Pyramid_withTheHelpOf_MRAT.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_Triangle_using_MRAT.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application._05_X.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_ImplicitConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_Pyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application._06_V_withTheHelpOfUltaPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application._07_X.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pawan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.temp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tryerror.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\JAVA\src\_05_WhileLoop" />
       <recent name="D:\JAVA\JAVA\src\_01_Basics" />
       <recent name="D:\JAVA\JAVA\src" />
       <recent name="D:\JAVA\JAVA\src\_00_Notes" />
       <recent name="D:\JAVA\JAVA\src\Basics" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application._01_Concatenation">
     <configuration name="EQ17_WeakDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_03_IfElse.EQ_12To22.EQ17_WeakDays" />
       <module name="JAVA" />
@@ -433,7 +397,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712414940014</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="New Files">
+      <option name="closed" value="true" />
+      <created>1713788093737</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1713788093737</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -1,12 +1,12 @@
-package _08_PatternPrinting;
+package _08_PatternPrinting.Conditionals;
 
-public class _06_V_withTheHelpOfUltaPyramid {
+public class _02_V_using_UltaTriangle {
     public static void main(String[] args) {
         int n = 5;
 
         for(int i=n ; i>=1 ; i--){
             for(int s=1 ; s<=n-i ; s++){
-                System.out.print(" ");   //Force 10N se 5N krdia to * last tk na jakr middle/center pr aagye
+                System.out.print(" ");   //Only one space...force halved
             }
             for(int j=1 ; j<=i ; j++){
                 if(j==1 || j==i)
@@ -16,5 +16,5 @@ public class _06_V_withTheHelpOfUltaPyramid {
             }
             System.out.println();
         }
-    }    
+    }
 }
