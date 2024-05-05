@@ -27,3 +27,10 @@ camelCase - for naming Variables and Methods  [nextInt(),println()]
 PascalCase - for naming Classes  [Scanner]
 
 for packages - small or camelCase
+
+Primitive datatypes:
+Built in / Predefined
++ size and range fixed
+
+diff bw initialization and assignation.. initilazation means first time assignation
+new keyword memory me space create krta

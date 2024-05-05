@@ -27,7 +27,6 @@ public class AllMathFunctions {
 
         System.out.println(Math.floor(5.3));
         System.out.println(Math.ceil(5.3));
-        System.out.println(Math.round(5.3));
         System.out.println(Math.round(5.5));
 
         System.out.println(Math.sqrt(16.39));
@@ -38,10 +37,10 @@ public class AllMathFunctions {
 
         System.out.println(Math.pow(5,2.1));
 
-        System.out.println(Math.abs(-5));
+        System.out.println(Math.abs(2-7));  //5
         System.out.println(Math.PI);
 
-        System.out.println((int)Math.log10(123456) + 1);
+        System.out.println((int)Math.log10(123456) + 1);   //no.of digits
     }
 }
 
