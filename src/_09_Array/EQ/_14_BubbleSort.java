@@ -1,14 +1,13 @@
-package _09_Array.Main;
+package _09_Array.EQ;
 
 import java.util.Arrays;
 
-public class BubbleSort {
+public class _14_BubbleSort {
     public static void main(String[] args) {
-        int[] arr = {5,4,3,2,1};
-        int n= arr.length-1;     //since for n elements , no. of passes are n-1
+        int[] arr = {6,1,7,3,8,2,4};
 
-        for(int i=0 ; i<n ; i++){
-            for(int j=0 ; j<n-i ; j++){
+        for (int i = 0; i < arr.length-1; i++) {  //length-1 bcoz do elements ko ek sath hi kelrhe h na compare .. to hme pinter last-1 waale index tk hi chahiye
+            for(int j=0; j< (arr.length-1)-i ; j++){
                 if(arr[j]>arr[j+1]){
                     int temp = arr[j];
                     arr[j] = arr[j+1];

@@ -1,4 +1,4 @@
-package _09_Array.Class;
+package _09_Array.EQ;
 public class _04_2ndGreatest {
     public static void main(String[] args) {
         int[] arr = {10, 6, 9 , 8};

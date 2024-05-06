@@ -1,4 +1,4 @@
-package _09_Array.Class;
+package _09_Array.EQ;
 public class _03_Smallest {
     public static void main(String[] args) {
         int[] arr = {5,9,1,2,10};

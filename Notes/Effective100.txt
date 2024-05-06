@@ -143,15 +143,17 @@
       {2, 96, 69, 77, 145, 20} = Max element = 145 found at 4 index
 56- Find the second greatest element
       {2, 96, 69, 77, 145, 20} = Second greatest element = 96
-      
 57- Check if array is sorted in increasing order or not.
        Ex 1 - { 1, 5, 8,  9, 10, 15 } - OP = "YES"
        Ex 2 - { 1, 8, 6, 9, 10, 15 } - OP = "NO"
+
 58- Take n integer inputs from user and store them in an array.
        Now, copy all the elements in an another array but in reverse order and print it.
+61- Array Reverse Without Using Extra space
+
 59- Array left Rotation by 1
 60- Array left rotation by K elements
-61- Array Reverse Without Using Extra space
+
 62- Linear Search an array - If element found print the index else -1
 63- Binary Search. If element found print the index else -1
 64- Bubble Sort.

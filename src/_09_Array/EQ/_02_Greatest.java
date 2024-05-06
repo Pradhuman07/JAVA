@@ -1,4 +1,4 @@
-package _09_Array.Class;
+package _09_Array.EQ;
 
 public class _02_Greatest {
     public static void main(String[] args) {

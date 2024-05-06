@@ -1,4 +1,4 @@
-package _09_Array.Class;
+package _09_Array.EQ;
 
 import java.util.Arrays;
 

@@ -1,8 +1,8 @@
-package _09_Array.Main;
+package _09_Array.EQ;
 
 import java.util.Arrays;
 
-public class _09_LeftRotatebyKtimes {
+public class _16_LeftRotateKtimes {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5};
         int n = arr.length;
