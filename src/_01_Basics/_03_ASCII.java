@@ -8,7 +8,7 @@ public class _03_ASCII {
 
         int x ='a';
         System.out.println(x); // 97 aayega
-        System.out.println("x = " + x++); // 97 aayega a nhi aayega kyoki int h
+        System.out.println("x = " + ++x); // 98 aayega a nhi aayega kyoki int h
 
         char ch = 'a';
         System.out.println("ch = " + ++ch); // b aayega ab //note- arithmatic + nhi h wo , therfore no ASCII conversion
