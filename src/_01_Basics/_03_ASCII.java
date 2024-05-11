@@ -1,5 +1,7 @@
 // 0=48 , A=65 ,a=97
 
+//Note jb bhi character mein Arithmetic Operation krte h to character automatically integer ASCII value mein convert ho jata h
+
 package _01_Basics;
 public class _03_ASCII {
     public static void main(String[] args) {
