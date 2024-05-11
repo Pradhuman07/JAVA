@@ -7,6 +7,7 @@ public class _03_ASCII {
         System.out.println( 'a' > 'A' );
 
         int x ='a';
+        System.out.println(x); // 97 aayega
         System.out.println("x = " + x++); // 97 aayega a nhi aayega kyoki int h
 
         char ch = 'a';
