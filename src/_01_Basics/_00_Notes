@@ -39,3 +39,7 @@ signature = prototype = definition = psvm
 
 public = acces specifier
 method is a machine argument = aalu rdt = sona
+
+In java, we can store octal numbers by just adding 0 while initializing. They are called Octal Literals.
+
+int a = 024; //4*8^0 + 2*8^1 = 20
