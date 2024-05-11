@@ -17,8 +17,11 @@ public class _03_ASCII {
 
         //Note idr no. aayega kyoki jaise hi character mein Arithmetic Operation krte h to character automatically integer ASCII value mein convert ho jata h
 
-        System.out.println(ch);   //b
-        System.out.println(+ch);  //98
+        System.out.println(ch);     //b
+        System.out.println(++ch);   //c
+        System.out.println(ch++);   //c
+
+        System.out.println(+ch);  //99
 
     }
 }
