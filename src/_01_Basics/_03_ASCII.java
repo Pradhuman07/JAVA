@@ -24,6 +24,7 @@ public class _03_ASCII {
         System.out.println(ch++);   //c
 
         System.out.println(+ch);  //99
+        System.out.println(ch);   //c
 
     }
 }
