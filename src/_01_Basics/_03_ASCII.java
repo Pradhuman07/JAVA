@@ -1,3 +1,5 @@
+// 0=48 , A=65 ,a=97
+
 package _01_Basics;
 public class _03_ASCII {
     public static void main(String[] args) {
