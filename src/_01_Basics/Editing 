@@ -3,3 +3,7 @@
 	   System.out.println(x+++y);
 	   System.out.println(x);      //8
 	   System.out.println(y);      //4
+
+In java, we can store octal numbers by just adding 0 while initializing. They are called Octal Literals.
+
+int a = 024; //4*8^0 + 2*8^1 = 20
