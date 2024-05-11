@@ -13,7 +13,7 @@ public class _03_ASCII {
         char ch = 'a';
         System.out.println("ch = " + ++ch); // b aayega ab //note- arithmatic + nhi h wo , therfore no ASCII conversion
 
-        System.out.println(ch + ch++ ); // ch = 98 therfore 98+98  //since arithmatic operation horha therefore char converted into ASCII integer
+        System.out.println(ch + ch); // ch = 98 therfore 98+98  //since arithmatic operation horha therefore char converted into ASCII integer
 
         //Note idr no. aayega kyoki jaise hi character mein Arithmetic Operation krte h to character automatically integer ASCII value mein convert ho jata h
 
