@@ -1,7 +1,5 @@
 package _09_Array.EQ;
-
 import java.util.Arrays;
-
 public class _14_BubbleSort {
     public static void main(String[] args) {
         int[] arr = {6,1,7,3,8,2,4};
