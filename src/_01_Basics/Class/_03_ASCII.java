@@ -2,7 +2,7 @@
 
 //Note jb bhi character mein Arithmetic Operation krte h to character automatically integer ASCII value mein convert ho jata h
 
-package _01_Basics;
+package _01_Basics.Class;
 public class _03_ASCII {
     public static void main(String[] args) {
 
