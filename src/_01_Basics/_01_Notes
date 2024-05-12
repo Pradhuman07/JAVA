@@ -4,7 +4,7 @@ int x=7;
 	   System.out.println(x);      //8
 	   System.out.println(y);      //4
 
-//x+++++y = error
+//x+++++y = error (+)
 
 -----------------------------------
 
