@@ -7,7 +7,7 @@ public class EQ36_ReverseANumber {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number:");
 
-        int n=sc.nextInt();   //123 = 100 + 20 + 31
+        int n=sc.nextInt();   //123 = 100 + 20 + 3
         int rev=0;            //321 = 300 + 20 + 1
 //                                    3*10*10 + 2*10 + 1
 

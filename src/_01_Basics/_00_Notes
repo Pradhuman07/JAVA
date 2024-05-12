@@ -14,51 +14,28 @@ SHORTCUTS:-
 float a = 4;   //no error since 4 is a integer and integer can be stored in float
 float a=4.0;   //error...as 4.0 is double and double cannot be stored in float
 
-float x = 5.3f;
-x+=0.3; No error   //ShortHand Operator does Implicit Conversion
-x = x + 0.3 ; Error :- Cannot store double in float
-
-byte x = 3;
-x+=2;   //No error bcoz implicit conversion or value just incremented by 2
-x=x+2;  //Error 2 is a integer which means type mismatch storing int in byte not possibke
-
---int/int will always yields int (even if you store it in double)
-if you want ans in point then make any of a or b ine expression a/b as float/double
-
-NOTE:-
-        int a=4,b=3;
-        double c=a/b;
-        System.out.println(c);   // O/P=1.0
-
-        double a=4,b=3;
-        double c=a/b;
-        System.out.println(c);   // O/P=1.33..
-
-        double x=4;
-        System.out.println(x);   //O/P=4.0
-
-
+--int/int will always yields int (even if you store it in double) (if you want ans in point then make any of a or b ine expression a/b float/double)
 
 long x = 999_999_999_999_999;
-
-{dividend = divisor * Quotient + Remainder}
 
 a%b --> (0,b-1)
 Eg:- something%3 = 0,1,2    [let something = 3,4,5,6,7 ...now check]
 
-if Nr<Dr then Nr%Dr=Nr always   [1%10=1] (since 1=10*0+1)  [3%5=3] (since 3=5*0+3)
+if Nr<Dr then Nr%Dr=Nr always
 
-PascalCase - for naming Classes  [Scanner , Arrays.toString()]
-camelCase - for naming Variables and Methods  [nextInt(),println(),toString(),]
+camelCase - for naming Variables and Methods  [nextInt(),println()]
+PascalCase - for naming Classes  [Scanner]
 
 for packages - small or camelCase
 
-Primitive datatypes: Built in / Predefined + size and range fixed
+Primitive datatypes:
+Built in / Predefined
++ size and range fixed
 
 diff bw initialization and assignation.. initilazation means first time assignation
-new keyword memory me space create krta h
+new keyword memory me space create krta
 
 signature = prototype = definition = psvm
 
-Actual Argument:- Jo pass krte h   (main method mein)
-Formal Argument:- Jidhar pass hua ..Shallow copy of the AA.  (method ke andr)
+public = acces specifier
+method is a machine argument = aalu rdt = sona

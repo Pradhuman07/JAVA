@@ -17,4 +17,4 @@ public class EQ36_ReverseWithTrick {
 }
 //Trick: Sum of Digits waale mein bus
 // sum = sum + n%10;        ki jgh
-// sum = sum*10 + n%10;     krdo     ...aur fir sum ko print krado
+// sum = sum*10 + n%10;     krdo
