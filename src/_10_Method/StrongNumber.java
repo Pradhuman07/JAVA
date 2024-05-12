@@ -1,3 +1,4 @@
+//Strong number --> 145 = 1! + 4! + 5! = 145
 package _10_Method;
 public class StrongNumber {
     public static int fact(int n){
@@ -22,4 +23,3 @@ public class StrongNumber {
         System.out.println(sum==dup? "Strong" : "Not Strong");
     }
 }
-//Strong number --> 145 = 1! + 4! + 5! = 145

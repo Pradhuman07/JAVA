@@ -14,8 +14,6 @@ public class EQ37_Pallindrome {
             rev = rev*10 + lastDigit;
             n/=10;
         }
-
         System.out.println(rev==dup ? "Palli":"Not Palli");
-
     }
 }

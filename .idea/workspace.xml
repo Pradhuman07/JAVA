@@ -5,40 +5,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4a84bd-704f-4974-8d40-33e661dd2bbf" name="Changes" comment="New Files">
-      <change afterPath="$PROJECT_DIR$/src/_01_Basics/delete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_12_LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_13_BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_14_BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_17_RightRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_18_RightRotateKtimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_19_PositiveNegativeSeparation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_20_SubArraysWithTargetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/_00_QuestionsList" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Method/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Method/SpecialNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_10_Method/StrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_00_LeetCode/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/Class/_02_NumberProgramTrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ4_ProblemWithNextLineMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/Area_UsingMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_02_ConditionalPatterns/ABCDXYZSANDWATCH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_03_NumberPatterns/_01_IRAT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_04_AlphabetPatterns/_IRAT_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q16_Mapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q18_ArrayExhaust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q21_ZeroOneSeparation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q22_NegPosSeparation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Array/_2D_Array/syntax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_Method/Area_UsingMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Effective100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/Effective100.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_00_Syntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_00_Syntax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_01_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_01_SumOfELements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_02_Greatest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_02_Greatest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_03_Smallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_03_Smallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_04_2ndGreatest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_04_2ndGreatest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_05_2ndSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_05_2ndSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_06_3rdGreatest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_06_3rdGreatest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_07_3rdSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_07_3rdSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_08_isSorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_08_isSorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_09_ReverseUsingNewArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_09_ReverseUsingNewArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_10_ReverseWithoutUsingNewArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_10_ReverseWithoutUsingNewArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Class/_11_10_UsingWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_11_10_UsingWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Main/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Main/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Main/EffQ2ndlast.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Main/LinearSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Main/RightRotate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Main/RightRotateKtimes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Main/_08_LeftRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_15_LeftRotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_09_Array/Main/_09_LeftRotatebyKtimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/EQ/_16_LeftRotateKtimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/25 Question Practise Session" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/25 Question Practise Session" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/Notes till Loops.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ1_SumOf2no.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ1_SumOf2no.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ4_NamenAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ4_NamenAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ6_Swapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/EQ_1To6/EQ6_Swapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_00_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/_00_Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_01_Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/Class/_01_Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_02_NumberProgramTrick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_03_ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/Class/_03_ASCII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_04_Swaping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/Class/_04_Swaping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/_05_TypeCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Basics/Class/_05_TypeCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_Basics/delete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_Math/AllMathFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_Math/AllMathFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ7_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ7_Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ9_HeronsFormula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_Math/EQ_7To11/EQ9_HeronsFormula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_Math/GreatestSmallestBw3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_Math/GreatestAmong3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ13n14_GoodMorning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ13n14_GoodMorning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ18_M2_Best_GreatestBWnNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ18_M2_Best_GreatestBWnNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ19_LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ19_LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ20_Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ20_Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ21_Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/EQ_12To22/EQ21_Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q1_MovieRating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q1_MovieRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q2_Salary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q2_Salary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q3_Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q3_Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q4_ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/PactiseSession/Q4_NoOfNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q1_EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q1_EvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q2_Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q2_Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q3_LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_IfElse/TernaryOperator/Q3_LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ26_Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ26_Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ27_Sn_Accumulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ27_Sn_Accumulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ28_Factorial_Accumulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ28_Factorial_ProductAccumulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ29_Range_EvenOdd_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ29_Range_EvenOdd_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ31_SumOfFactors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ31_SumOfFactors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ32_PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/EQ_23_to_33/EQ32_PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/ISBN_No.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/HCF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/Q2_Approach2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/PractiseSession/HCF_Approach2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_ForLoop/_00_PostMortom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ForLoop/_00_PostMortom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ37_Pallindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ37_Pallindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ38_Strong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ38_Strong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ39_Automorphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_WhileLoop/EQ_34_to_39/EQ39_Automorphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05_WhileLoop/ForVsWhile" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_WhileLoop/ForVsWhile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05_WhileLoop/Note.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/FibbonaciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/FibbonaciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/HarshadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/HarshadNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/PerfectSqaure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_WhileLoop/PractiseSession/PerfectSqaure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_00_Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_01_BasicPatterns/_00_Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_01_RAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_01_BasicPatterns/_01_IRAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_02_IRAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_01_BasicPatterns/_02_DRAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_03_MRAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_01_BasicPatterns/_03_MRAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_04_MIRAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_01_BasicPatterns/_04_MDRAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_05_Triangle_using_MRAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_01_BasicPatterns/_05_Triangle_using_MRAT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/BasicPatterns/_06_Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_01_BasicPatterns/_06_Pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/Conditionals/ABCDXYZSANDWATCH.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/Conditionals/_01_X.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_02_ConditionalPatterns/_01_X.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_08_PatternPrinting/Conditionals/_02_V_using_UltaTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_PatternPrinting/_02_ConditionalPatterns/_02_V_using_UltaTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Array/PractiseSession/ConcatenateSumEqn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q14_SumEqn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q1_AbsDiffSumAllPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q15_SumOfAbsoulteDifferences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q3_Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q4_Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q17_UpdatePrevNext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q5_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q19_Frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q6_BalanceArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q20_BalanceArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Array/PractiseSession/_00_QuestionsList" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/_00_Questions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_09_Array/PractiseSession/maxUsingMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_09_Array/PractiseSession/Q13_MaximumELementUsingMathFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_10_Method/StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_10_Method/StrongNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +138,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.AbundantNumber.executor": "Run",
     "Application.AllMathFunctions.executor": "Run",
+    "Application.Area_UsingMethod.executor": "Run",
     "Application.ArmstrongNumber.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.BubbleSort.executor": "Run",
@@ -111,8 +159,10 @@
     "Application.EQ18_M2_Best.executor": "Run",
     "Application.EQ18_M3_LYW.executor": "Run",
     "Application.EQ19.executor": "Run",
+    "Application.EQ19_LeapYear.executor": "Run",
     "Application.EQ2.executor": "Run",
     "Application.EQ20.executor": "Run",
+    "Application.EQ20_Discount.executor": "Run",
     "Application.EQ22.executor": "Run",
     "Application.EQ23_HelloWorld.executor": "Run",
     "Application.EQ24_NaturalNum.executor": "Run",
@@ -146,33 +196,45 @@
     "Application.EQ7.executor": "Run",
     "Application.EQ8.executor": "Run",
     "Application.EQ9.executor": "Run",
+    "Application.EQ9_HeronsFormula.executor": "Run",
     "Application.EffQ2ndlast.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.FibbonaciSeries.executor": "Run",
+    "Application.HCF_Approach2.executor": "Run",
     "Application.HarshadNumber.executor": "Run",
     "Application.HiWorld.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxBw3Numbers.executor": "Run",
     "Application.MovieRating.executor": "Run",
+    "Application.NegPos8MayAnotherWay.executor": "Run",
     "Application.NewClass.executor": "Run",
     "Application.NewWorld.executor": "Run",
     "Application.PerfectSqaure.executor": "Run",
     "Application.Q1.executor": "Run",
+    "Application.Q18_ArrayExhaust.executor": "Run",
+    "Application.Q1_AbsDiffSumAllPairs.executor": "Run",
     "Application.Q1_EvenOdd.executor": "Run",
     "Application.Q2.executor": "Run",
+    "Application.Q21_ZeroOneSeparation.executor": "Run",
+    "Application.Q22_NegPosSeparation.executor": "Run",
     "Application.Q2_2ndApproach.executor": "Run",
+    "Application.Q2_Salary.executor": "Run",
     "Application.Q3.executor": "Run",
     "Application.Q3_LeapYear.executor": "Run",
     "Application.Q4_ATM.executor": "Run",
+    "Application.Q4_Multiply.executor": "Run",
     "Application.Q5_Frequency.executor": "Run",
     "Application.Q6_BalanceArray.executor": "Run",
     "Application.Revision.executor": "Run",
     "Application.Salary.executor": "Run",
+    "Application.Solution.executor": "Run",
     "Application.SpecialNumber.executor": "Run",
     "Application.StrongNumber.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Unicode.executor": "Run",
     "Application.Whizz8.executor": "Run",
     "Application.Whizz8_next.executor": "Run",
+    "Application.ZeroOneSeparation.executor": "Run",
     "Application._00_.executor": "Run",
     "Application._00_Cheethad.executor": "Run",
     "Application._00_Info.executor": "Run",
@@ -181,9 +243,12 @@
     "Application._01_Calculator.executor": "Run",
     "Application._01_Concatenation.executor": "Run",
     "Application._01_Gender.executor": "Run",
+    "Application._01_IRAT.executor": "Run",
     "Application._01_RAT.executor": "Run",
     "Application._01_SumOfElements.executor": "Run",
     "Application._01_Unicode.executor": "Run",
+    "Application._01_X.executor": "Run",
+    "Application._02_DRAT.executor": "Run",
     "Application._02_GreatestElement.executor": "Run",
     "Application._02_IRAT.executor": "Run",
     "Application._02_MaximumElement.executor": "Run",
@@ -195,11 +260,13 @@
     "Application._03_SmallestElement.executor": "Run",
     "Application._04_2ndGreatest.executor": "Run",
     "Application._04_2ndMax.executor": "Run",
+    "Application._04_MDRAT.executor": "Run",
     "Application._04_MIRAT.executor": "Run",
     "Application._04_Multiply.executor": "Run",
     "Application._04_Pyramid_withTheHelpOf_MRAT.executor": "Run",
     "Application._04_SecondGreatest.executor": "Run",
     "Application._04_Swap.executor": "Run",
+    "Application._04_Swaping.executor": "Run",
     "Application._05_2ndSmallest.executor": "Run",
     "Application._05_Pyramid_withTheHelpOf_MRAT.executor": "Run",
     "Application._05_Triangle_using_MRAT.executor": "Run",
@@ -221,11 +288,16 @@
     "Application._12_LinearSearch.executor": "Run",
     "Application._13_BinarySearch.executor": "Run",
     "Application._14_BubbleSort.executor": "Run",
+    "Application._2341.executor": "Run",
+    "Application._IRAT_.executor": "Run",
     "Application.hii.executor": "Run",
     "Application.maxi.executor": "Run",
     "Application.pawan.executor": "Run",
     "Application.sunday.executor": "Run",
+    "Application.synta.executor": "Run",
+    "Application.syntax.executor": "Run",
     "Application.temp.executor": "Run",
+    "Application.test.executor": "Run",
     "Application.tryerror.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -238,11 +310,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\JAVA\src\_01_Basics" />
+      <recent name="D:\JAVA\JAVA\src\_01_Basics\Class" />
       <recent name="D:\JAVA\JAVA\src\_09_Array\Class" />
       <recent name="D:\JAVA\JAVA\src\_09_Array\Main" />
       <recent name="D:\JAVA\JAVA\src\_09_Array\Revision" />
-      <recent name="D:\JAVA\JAVA\src\_05_WhileLoop" />
-      <recent name="D:\JAVA\JAVA\src\_01_Basics" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="_10_Method" />
+      <recent name="lullu" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -413,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714929444492</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="New Files">
+      <option name="closed" value="true" />
+      <created>1714996228561</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1714996228561</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -1,6 +1,7 @@
-//Math Class:-present inside java.lang.Math;
+//Math is a Class which is present inside the java.lang.Math; library
+//floor,sqrt,max,min,pow etc. are its method i.e present inside the Math class
 
-//java.lang.Math class is a built-in class.
+//java.lang.Math class is a built-in class , No need to import
 //It provides mathematical functions and constants for mathematical operations.
 
 
@@ -35,12 +36,14 @@ public class AllMathFunctions {
         System.out.println(Math.max(-5.3,-6.1));
         System.out.println(Math.min(5.3,6.1));
 
+        System.out.println(Math.max(Math.max(3,1),2));
+
         System.out.println(Math.pow(5,2.1));
 
         System.out.println(Math.abs(2-7));  //5
         System.out.println(Math.PI);
 
-        System.out.println((int)Math.log10(123456) + 1);   //no.of digits
+        System.out.println((int)Math.log10(1234) + 1);   //no.of digits
     }
 }
 

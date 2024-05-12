@@ -1,5 +1,6 @@
-//Syntax:- condition ? true : false ;      NOTE:- no(?)=no(:)
+//Syntax:- Condition ? true : false ;      NOTE:- no(?)=no(:)
 //Note:- Ternary Operator returns a value therefore you need a variable to store it, and also you have to define the datatype of that variable
+//String is not the only one you can store int and other datatype also
 package _03_IfElse.TernaryOperator;
 import java.util.Scanner;
 public class Q1_EvenOdd {
@@ -8,12 +9,9 @@ public class Q1_EvenOdd {
         System.out.println("Enter a no.");
         int n = sc.nextInt();
 
-        if(n%2==0) System.out.println("Even");
-        else System.out.println("Odd");
+        System.out.println(n%2==0 ? "Even" : "Odd");    //Best
 
         String ans = n%2==0 ? "Even" : "Odd";
         System.out.println(ans);
-
-        System.out.println(n%2==0 ? "Even" : "Odd");
     }
 }

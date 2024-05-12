@@ -1,8 +1,6 @@
+//EQ.01 - Sum of two integers
 package _01_Basics.EQ_1To6;
-
 import java.util.Scanner;
-
-//1 - Sum of two integers
 public class EQ1_SumOf2no {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

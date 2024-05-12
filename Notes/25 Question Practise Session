@@ -4,7 +4,7 @@ if-else:
 1. movie rating
 2. profile asbed program
 
-loop: 
+loop:
 3. ISBN number
 4. HCF
 5. Harshad number
@@ -14,7 +14,7 @@ loop:
 9. Find Number of integers which has exactly x divisors using java
 10.Program for Finding out the Prime Factors of a number in Java
 11.Write a program to calculate the area of a circle, rectangle, and triangle using a switch statement
-12.A neon number is a number where the sum of digits of the square of the number is equal to the number. 
+12.A neon number is a number where the sum of digits of the square of the number is equal to the number.
    Input  : 9
 Output : Given number  9 is Neon number
 
@@ -32,16 +32,19 @@ Input: n = 7
 Output: 609
 0 + 1 + 3 + 8 + 21 + 55 + 144 + 377 = 609.
 
-14.number Pascal triangle 
+14.number Pascal triangle
    a. print the nth row rth column's value - (n-1)C(r-1)
    b. print whole nth row -
       ans = 1;
       ans*(n-c)/c
    c. print the whole triangle
- 
+
+
+---------------------------------------------------------------
+
 15. Given a sorted array of distinct elements, the task is to find the summation of absolute differences of all pairs in the given array.
 
-Examples: 
+Examples:
 
 Input : arr[] = {1, 2, 3, 4}
 Output: 10
@@ -50,26 +53,26 @@ Sum of |2-1| + |3-1| + |4-1| +
 
 16.Given an integer array A[] and a character array B[] of equal lengths where every character of the array is from the set {‘a’, ‘b’, ‘c’}. Elements of both arrays are associated with each other i.e. the value of B[i] is linked to A[i] for all valid values of i. The task is to find the value min(a + b, c).
 
-Examples: 
+Examples:
 
-Input: A[] = {3, 6, 4, 5, 6}, B[] = {‘a’, ‘c’, ‘b’, ‘b’, ‘a’} 
+Input: A[] = {3, 6, 4, 5, 6}, B[] = {‘a’, ‘c’, ‘b’, ‘b’, ‘a’}
 Output: 6
 
 
-Input: A[] = {4, 2, 6, 2, 3}, B[] = {‘b’, ‘a’, ‘c’, ‘a’, ‘b’} 
-Output: 5  
+Input: A[] = {4, 2, 6, 2, 3}, B[] = {‘b’, ‘a’, ‘c’, ‘a’, ‘b’}
+Output: 5
 
 17 . Given an array of integers, update every element with the multiplication of previous and next elements with the following exceptions.
 
-a) The First element is replaced by the multiplication of the first and second. 
+a) The First element is replaced by the multiplication of the first and second.
 b) The last element is replaced by multiplication of the last and second last.
 
-Example:  
+Example:
 
 Input  : arr[] = {2, 3, 4, 5, 6}
 Output : arr[] = {6, 8, 15, 24, 30}
 
-18. We are given an array of Integers. We have to perform the following operation on the array until it is fully exhausted. 
+18. We are given an array of Integers. We have to perform the following operation on the array until it is fully exhausted.
 
 Select the max number in the array and delete that number including all the numbers to its right side in the array.
 Repeat the step 1 for the left elements of the array i.e select the maximum element in the left elements  and delete it including all numbers to its right.
@@ -79,23 +82,24 @@ Input : Array = [2, 3, 5, 4, 1]
 Output : Steps Taken: 3
 Explanation: Step 1: Remove 5 and elements to its right
              so, Array becomes [2, 3]
-             Step 2: Remove 3 as it is the maximum and 
+             Step 2: Remove 3 as it is the maximum and
              right most already so, Array becomes [2]
              Step 3: Remove 2 and the array becomes EMPTY
-             Hence, at the end of step 3 the array stands 
+             Hence, at the end of step 3 the array stands
              exhausted.
 
-19. Frequency of element in array -
+19. Frequency of element in array.
+
 20.Given an array of even size, task is to find minimum value that can be added to an element so that array become balanced.
 An array is balanced if the sum of the left half of the array elements is equal to the sum of right half. Suppose, we have an array 1 3 1 2 4 3.
-The Sum of first three elements is 1 + 3 + 1 = 5 and sum of last three elements is 2 + 4 + 3 = 9 
+The Sum of first three elements is 1 + 3 + 1 = 5 and sum of last three elements is 2 + 4 + 3 = 9
 So this is unbalanced, to make it balanced the minimum number we can add is 4 to any element in first half.
 
-Examples : 
+Examples :
 
 Input : 1 2 1 2 1 3
 Output : 2
-Sum of first 3 elements is 1 + 2 + 1 = 4, 
+Sum of first 3 elements is 1 + 2 + 1 = 4,
 sum of last three elements is 2 + 1 + 3 = 6
 To make the array balanced you can add 2.
 

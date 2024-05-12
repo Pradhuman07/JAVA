@@ -4,7 +4,7 @@ package _01_Basics.EQ_1To6;
 public class EQ6_Swapping {
     public static void main(String[] args) {
 
-        //1.Using Temporary Variable
+        //1.Using Third Variable
 
         int a=4,b=7;
         int t;
@@ -16,7 +16,7 @@ public class EQ6_Swapping {
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
-        //2.Using Arithmatic Operations
+        //2.Without using third variable
 
         a=4; b=7;
 

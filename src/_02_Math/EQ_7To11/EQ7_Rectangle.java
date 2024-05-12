@@ -1,8 +1,6 @@
 //7- Accept the length and width of a rectangle. Calculate & print the area and perimiter.
 package _02_Math.EQ_7To11;
-
 import java.util.Scanner;
-
 public class EQ7_Rectangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -17,12 +17,6 @@ public class EQ29_Range_EvenOdd_Sum {
             else sumOfOdd = sumOfOdd + i;
         }
 
-//        for(int i=a ; i<=b ; i++){
-//            if(i%2==0) sumOfEven = sumOfEven+i;
-//            else sumOfOdd = sumOfOdd + i;
-//        }
-
-
         System.out.println("Sum of Even numbers b/w " + a + " and " + b + " is:- " + sumOfEven);
         System.out.println("Sum of Odd numbers b/w " + a + " and " + b + " is:- " + sumOfOdd);
     }

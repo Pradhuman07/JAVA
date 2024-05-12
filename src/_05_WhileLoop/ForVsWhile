@@ -1,2 +1,5 @@
-We use for when we know no. of iterations
-When we don't know the no. of iterations and we only know up to what we have to run the code
+We use For when we know no. of iterations
+When we don't know the no. of iterations and we only know up to what we have to run the code we use While
+
+//\n is new line char sout
+// break is used within "if" statement

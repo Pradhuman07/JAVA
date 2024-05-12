@@ -1,6 +1,6 @@
 //9- Accept the three sides of triangle and calculate the area using herons formula
-// A = ✔S(S-a)(S-b)(S-c)
-// where S = (a+b+c)/2
+                // A = ✔S(S-a)(S-b)(S-c)
+                // where S = (a+b+c)/2
 package _02_Math.EQ_7To11;
 import java.util.Scanner;
 public class EQ9_HeronsFormula {
@@ -13,6 +13,7 @@ public class EQ9_HeronsFormula {
         double c = sc.nextDouble();
 
         double S = (a+b+c)/2;
+        System.out.println(S);
         double Area = Math.sqrt(S*(S-a)*(S-b)*(S-c));
 
         System.out.println("Area = " + Area);

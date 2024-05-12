@@ -10,7 +10,7 @@ public class EQ13n14_GoodMorning {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter your Gender: ");
-        char gen = sc.next().charAt(0);
+        char gen = sc.next().charAt(0);   //Basically String is nothing but an Array of Char datatype
 
         if(gen == 'm' || gen == 'M') System.out.println("Good Morning Sir");
         else if(gen == 'f' || gen == 'F') System.out.println("Good Morning Mam");

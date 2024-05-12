@@ -12,7 +12,7 @@ public class EQ21_Bill
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter no. of units consumed");
-        int u = sc.nextInt();
+        double u = sc.nextInt();
 
         double tot=0;
 

@@ -9,12 +9,10 @@ public class HarshadNumber {  //Number divisible by its sum of digits
         int dup=n;
 
         int sum=0;
-
         while(n>0){
             sum = sum + n%10;
             n/=10;
         }
-
         System.out.println(dup%sum==0 ? "Harshad" : "Not Harshad");
 
     }

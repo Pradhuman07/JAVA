@@ -16,3 +16,4 @@ public class EQ4_NamenAge {
         System.out.println("Hello " + name + ", you are " + age + " years old.");
     }
 }
+//Note age phle leo naam baadme fir glitch dkho

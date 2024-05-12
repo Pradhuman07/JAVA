@@ -1,9 +1,9 @@
 //Accept rating of the movie as double and Movie name as String and Print like following:
 //I/P:-
         //4.5 for super hit ....3.5 for hit....1.5 for flop
-        //Animal Kingdom
+        //Animal
 //O/P:-
-        //Animal Kingdom is a super Hit
+        //Animal is a super Hit
 package _03_IfElse.PactiseSession;
 
 import java.util.Scanner;
@@ -12,10 +12,10 @@ public class Q1_MovieRating {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Movie rating");
+        System.out.println("Movie rating b/w 1-5");
         double r = sc.nextDouble();
 
-        sc.nextLine();
+        sc.nextLine();   //Dummy nextLine to acquire 'enter'
 
         System.out.println("Movie Name");
         String name = sc.nextLine();

@@ -27,6 +27,6 @@ public class EQ39_Automorphic {
         System.out.println("Square is: " + square);
         System.out.println("Last "+ countOfDigits + " Digits of " + square + " is: " + lastDigitsOfSquare);
 
-        System.out.println(lastDigitsOfSquare==n ? "Auto" : "Not Auto");
+        System.out.println(lastDigitsOfSquare==n ? "Therefore Auto" : "Therefore Not Auto");
     }
 }

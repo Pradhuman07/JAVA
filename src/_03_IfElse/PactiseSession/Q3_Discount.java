@@ -1,9 +1,7 @@
 package _03_IfElse.PactiseSession;
-
 import java.util.Scanner;
-
 public class Q3_Discount {
-    public static void main(String[] args) {final
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
         int amt = sc.nextInt();
@@ -16,6 +14,5 @@ public class Q3_Discount {
 
         System.out.println("Your discount is: " + (dis*amt));
         System.out.println("You have to pay Rs " + (amt-(dis*amt)));
-
     }
 }
