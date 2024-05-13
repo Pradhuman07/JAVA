@@ -1,4 +1,4 @@
-package _07_Switch.EQ_42_to_45;
+package _07_Switch;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ public class EQ42 {
 
         String res=switch(day){
             case 1 -> "Monday";
-            case 2,9,16 -> "Tuesday";
+            case 2,9,16 ->"Tuesday";
             case 3 -> "Wednesday";
             case 4 -> "Thursday";
             case 5 -> "Friday";

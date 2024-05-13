@@ -1,5 +1,5 @@
 //43- Accept an english alphabet from user and check if it is a consonant or a vowel.
-package _07_Switch.EQ_42_to_45;
+package _07_Switch;
 import java.util.Scanner;
 public class EQ43_Vowels {
     public static void main(String[] args) {
