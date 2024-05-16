@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e4a84bd-704f-4974-8d40-33e661dd2bbf" name="Changes" comment="New Files">
-      <change afterPath="$PROJECT_DIR$/Material/JAVA NOTES.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Material/Questions/LeetCode50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Material/Tasks/JCM.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Material/Tasks/TASK3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_13_String/_01_.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/25 Question Practise Session" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Questions/25 Question Practise Session" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Effective100.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Material/_01_Effective100.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/JAVA NOTES_TILL_ARRAY.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Syllabus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Material/_02_Syllabus.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/TASK1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Tasks/TASK1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/TASK2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Tasks/TASK2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/01 Java Intro.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/01 Java Intro.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/02 Concatenation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/02 Concatenation.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/03 Variable.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/03 Variable.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/04 Datatypes.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/04 Datatypes.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/05 Scanner.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/05 Scanner.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/06 Operatos.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/06 Operatos.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/07 Math Package.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/07 Math Package.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/08 If Else.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/08 If Else.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/09 Ternary Operator.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/09 Ternary Operator.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/10 For Loop.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/10 For Loop.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/11 While Loop.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/11 While Loop.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/12 Do While.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/12 Do While.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/13 Switch.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/13 Switch.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/Whizz/Increment Decrement.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Material/Whizz/Increment Decrement.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,11 +240,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA\JAVA\Material\Tasks" />
+      <recent name="D:\JAVA\JAVA\Material\Questions" />
+      <recent name="D:\JAVA\JAVA\Notes\Tasks" />
       <recent name="D:\JAVA\JAVA\src\_01_Basics" />
       <recent name="D:\JAVA\JAVA\src\_01_Basics\Class" />
-      <recent name="D:\JAVA\JAVA\src\_09_Array\Class" />
-      <recent name="D:\JAVA\JAVA\src\_09_Array\Main" />
-      <recent name="D:\JAVA\JAVA\src\_09_Array\Revision" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="_10_Method" />
@@ -540,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715624611911</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="New Files">
+      <option name="closed" value="true" />
+      <created>1715881539077</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1715881539077</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
