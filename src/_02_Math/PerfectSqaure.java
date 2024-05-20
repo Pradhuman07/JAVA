@@ -1,4 +1,4 @@
-package _05_WhileLoop.PractiseSession;
+package _02_Math;
 
 public class PerfectSqaure {
     public static void main(String[] args) {

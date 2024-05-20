@@ -175,7 +175,8 @@
 74- Pallindromic String using method and Two pointer algorithm (hint: Array reverse algo)
 75- Count vowels and consonents in a string
 76- Toggle each alphabet of String
-       In - AcgDfD Output - aCGdFd
+       In - AcgDfD
+       Output - aCGdFd
 77- Take an array of strings words and a String Prefix. Print the number of strings in words that contain pref as a prefix.
        Example - Input: words = ["pay","attention","practice","attend"], pref = "at"
                         Output: 2

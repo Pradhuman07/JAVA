@@ -1,12 +1,15 @@
 package _09_Array.EQ;
 public class _04_2ndGreatest {
     public static void main(String[] args) {
-        int[] arr = {10, 6, 9 , 8};
+        int[] arr = {9,9,6,5,4,9,3,3,1,2};
 
-        int greatest = Math.max(arr[0], arr[1]);
-        int secondGreatest = Math.min(arr[0], arr[1]);
+//        int greatest = Math.max(arr[0], arr[1]);         //What if both arr[0] and arr[1] are equal? therefore take
+//        int secondGreatest = Math.min(arr[0], arr[1]);
 
-        for (int i = 2; i < arr.length; i++) {  //NOTE:- Agr initialize int i=0; se krrhe ho to you are glt
+        int greatest = Integer.MIN_VALUE;
+        int secondGreatest = Integer.MIN_VALUE;
+
+        for (int i = 0; i < arr.length; i++) {
             if (arr[i] > greatest) {
                 secondGreatest = greatest;
                 greatest = arr[i];
