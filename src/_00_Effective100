@@ -1,0 +1,230 @@
+------------------------------BASICS Day 1 to 6--------------------------------------------------------
+
+1 - Sum of two integers
+2- Print the messege along with values and sum
+	Ex - The sum of 45 & 12  = 57
+3- Accept two integers from user and print the sum
+	Ex - The sum of 45 & 12 = 57
+4- Accept the User's name, age and print in following manner
+	Ex - Hello Shery, you are 12 years old.
+5- Solve Increment & decrement operator questions on
+	https://javaconceptoftheday.com/quiz-on-increment-and-decrement-operators/
+6- Accept two numbers from user and swap their values
+                Part 2 - Swap without using third variable
+
+-----------------------------------------MATH CLASS Day 7------------------------------------
+
+7- Accept the length and width of a rectangle. Calculate & print the area and perimiter.
+8- Accept the parameters and calculate the Compound Interest & print it on STDOUT (Use Math class methods)
+9- Accept the three sides of triangle and calculate the area using herons formula
+10- Find surface area of sphere
+11- Find circumference and area of circle
+
+------------------------IF ELSE Day 8 to 11-------------------------------------------
+
+12- Accept two numbers and print the greatest between them
+13- Accept the gender from the user as char and print the respective greeting message
+      Ex - Good Morning Sir (on the basis of gender)
+14- Extend the previous program and handle the wrong inputs.
+      Print Good Morning sir for input m or M & Good morning Maam for input F or f
+      else print Wrong Input
+15- Accept an integer and check whether it is an even number or odd.
+16- Accept name and age from the user. Check if the user is a valid voter or not.
+      Vaid - Hello Shery, You are a valid voter.
+      Invalid - Sorry Shery, you can't cast the vote.
+	Part 2 - Print after how many years the user will be eligible
+17- Accept a day number between 1-7 and print the corresponding dayname.
+18- Accept three numbers and print the greatest among them
+19- Accept a year and check if it a leap year or not (google to find out what's a leap year)
+20- Shop discount - Description on Graphic
+21- Bijli Bill - Description on Graphic
+22- Accept an english alphabet from user and check if it is a consonent or a vowel.
+
+------------------------------LOOPS Day 12 to 16----------------------------------------
+
+23- Accept an integer and Print hello world n times
+24- Print natural number up to n.
+25- Reverse for loop. Print n to 1.
+26- Take a number as input and print its table
+       5 * 1 = 5
+       5 * 2 = 10 ... up to 10 terms
+27- Sum up to n terms.
+28- Factorial of a number
+29- Print the sum of all even & odd numbers in a range separately.
+30- Print all the factors of a number.
+31- Print the sum of all factors of a number, 50 -> 1 + 2 + 5 + 10 + 25 = 43
+32- Check if the number is Prime or not.
+33- Write a program to take two inputs a, b & find the value of a  raised to the power of b.
+	Ex - a = 2, b = 5
+	OP - 2^5 = 32
+
+34- Separate each digit of a number and print it on the new line ex - 123
+	OP
+		3
+		2
+		1
+35- Sum of digits of a number, 936 = 18
+36- Accept a number and print its reverse
+37- Accept a number and check if it is a pallindromic number (If number and its reverse are equal)
+       Ex - 12321 - Reverse - 12321
+38- Accept a number and check if it is a strong number or not (Sum of factorial of each digit)
+       Ex- 145 = 1! + 4! + 5! = 145
+39- Automorphic number (5,25) (25,625) (6,36)
+
+--------------------------DO WHILE, SWITCH Day 17 to 19-----------------------------
+
+40- Print hello until user gives wrong input using do while
+41- Make a choice based calculator using do while
+
+42- Print Weekday using Switch
+43- Question 22 using Switch
+44- Project - Guess Game   [Binary Searchu]
+      Write a program that generates a random number and asks the user to guess what the number is.
+      If the user's guess is higher than the random number, the program should display "Too high, try again."
+      If the user's guess is lower than the random number, the program should display "Too low, try again."
+      The program should use a loop that repeats until the user correctly guesses the random number.
+45- Project Restaurent v 1.0
+
+-----------------------NESTED LOOP / PATTERN Day 20 to 21-----------------------------------
+
+46- Right Triangle - Star
+	*
+	* *
+	* * *
+	* * * *
+	* * * * *
+47- Right Triangle - Number
+	1
+	1 2
+	1 2 3
+	1 2 3 4
+	1 2 3 4 5
+48- Right Triangle - Alphabet
+	A
+	A B
+	A B C
+	A B C D
+	A B C D E
+49- Inverted Right Triangle
+	* * * * *
+	* * * *
+	* * *
+	* *
+	*
+50- Mirrored Right Triangle
+	        *
+	      * *
+	    * * *
+	  * * * *
+	* * * * *
+51- Triangle
+	    *
+	   * *
+	  * * *
+	 * * * *
+	* * * * *
+52- V - Min Height = 3
+		*       *
+		 *     *
+		  *   *
+		   * *
+		    *
+53- X
+		*        *
+		  *   *
+		    *
+		 *     *
+	   *          *
+---------------------------- -ARRAY Day 22 to 29--------------------------------------------
+
+54- Accept size n from user and create a n size array then take n inputs into the and finally
+      Print the sum & Avg of all elements.
+55- Find the greatest element.
+      {2, 96, 69, 77, 145, 20} = Max element = 145 found at 4 index
+56- Find the second greatest element
+      {2, 96, 69, 77, 145, 20} = Second greatest element = 96
+57- Check if array is sorted in increasing order or not.
+       Ex 1 - { 1, 5, 8,  9, 10, 15 } - OP = "YES"
+       Ex 2 - { 1, 8, 6, 9, 10, 15 } - OP = "NO"
+
+58- Take n integer inputs from user and store them in an array.
+       Now, copy all the elements in an another array but in reverse order and print it.
+61- Array Reverse Without Using Extra space
+
+59- Array left Rotation by 1
+60- Array left rotation by K elements
+
+62- Linear Search an array - If element found print the index else -1
+63- Binary Search. If element found print the index else -1
+64- Bubble Sort.
+
+65- Move all the negative elements on left side and positive elements on right side O(n).
+66- Print the count of subarrays whose sum is equal to the target.
+	Ex - {1,2,3,7,5}, T = 12  O/P - 2 - [ {2,3,7}, {7,5} ] - Both the subarrays has sum 12
+
+67- Strong number using methods
+68- Special number using methods.
+69- Leetcode 1929 - Concatenation of array
+70- Leetcode 1920 - Build Array from Permutation
+
+------------------------------------------------------------------STRING Day 33 to 37-----------------------------------------------------------------
+
+71- Accept a string from user and print its each character on a new line
+72- Accept a string and print it in reverse order
+
+73- Check if the string is Pallindromic or not
+74- Pallindromic String using method and Two pointer algorithm (hint: Array reverse algo)
+
+75- Count vowels and consonents in a string
+76- Toggle each alphabet of String
+       In - AcgDfD
+       Output - aCGdFd
+
+77- Take an array of strings words and a String Prefix. Print the number of strings in words that contain pref as a prefix.
+       Example - Input: words = ["pay","attention","practice","attend"], pref = "at"
+                        Output: 2
+
+78- Accept a space seperated sentence and split in into words. Print each word on a new line with first letter capitalized.
+      IN-      Hello bhai kaise ho
+      OP-        Hello
+                 Bhai
+                 Kaise
+                 Ho
+79- Extend the prev question and capitalize first & last character of each word in the sentence and print the new sentence
+      Ex - 	Hello bhai Kaise ho a
+	  OP -  HellO BhaI KaisE HO A
+
+
+81- Accept a string and print the frequency of each character present in the string
+82- Check Two Strings are Anagram or Not
+        Anagrams words have the same word length & same character count
+        Examples of anagram words are arc and car, state and taste, night and thing etc.
+
+83- Sort the words of the sentence
+80- 2114. Maximum Number of Words Found in Sentences
+
+---------------------------------------------------------------HASHING Day 40 to 41-------------------------------------------------------------------
+
+84- Print the unique elements in an array
+85- Find the freqency of elements in an integer array
+86- 771. Jewels and Stones
+87- 1832. Check if the Sentence Is Pangram
+88- 2351. First Letter to Appear Twice
+89- 1748. Sum of Unique Elements
+90- 2418. Sort the People
+
+------------------------------------------------------------OOPS & DESIGN 42 to 50-----------------------------------------------------------
+
+91- Program to Store the data of 5 Students in a Student[] and print them
+92- Design Private Cab Service - Graphic
+93- Design a class RailwayTicket - Graphic
+94- Design Hotel
+95- Design Student Management
+96- Project Restuarent V 2.0
+
+--------------------------------------------------------------BINARY & RECURSION-----------------------------------------------------------
+
+97- Accept a decimal number and convert it into binary equivalent.
+98- Accept a binary number in String form and convert it into decimal number
+99- Factorial of a number using recursion
+100- Fibonacci number using recursion
