@@ -1,0 +1,35 @@
+                        ==>Hashing
+
+  Hashing is a technique or process that allows for efficient operations,
+  such as insertion, deletion, and searching, with an average constant
+  time complexity of O(1).
+
+        -HashMap and HashSet are the Key components of hashing.
+
+                     ==>[I] HashMap
+
+        - HashMap is a data structure that implements the Map interface.(Inheritance)
+        - It stores data in the form of key-value pairs.
+        - It uses hashing to efficiently store and retrieve key-value pairs.
+        - HashMap allows only one null key and multiple null values,but
+          keys are unique(no duplicate keys are allowed).
+        - It does not maintain the insertion order.
+        - It provides constant-time average complexity for basic operations
+          such as get,put,and remove.
+
+    Syntax:
+          HashMap<KeyDataType,ValueDataType> map = new HashMap<>();
+    Example:
+          HashMap<Integer,Integer> map = new HashMap<>();
+
+    Operations on HashMap:-
+
+        -Adding an element:                         put(key,value)
+        -Replace or Update:                         replace(key,newValue)
+        -Retrieve an element:                       get(key)
+        -Remove:                                    remove(key)
+        -DeleteAll:                                 clear()
+        -Check if map contain particular key:       containsKey(key)
+        -Check if map contain particular value:     containsValue(key)
+        -Check if map is empty:                     isEmpty()
+        -Size:                                      size()

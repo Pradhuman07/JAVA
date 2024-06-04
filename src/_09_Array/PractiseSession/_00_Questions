@@ -7,7 +7,7 @@ Output: 10
 Sum of |2-1| + |3-1| + |4-1| +
        |3-2| + |4-2| + |4-3| = 10
 
-16.Given an integer array A[] and a character array B[] of equal lengths where every character of the array is from the set {‘a’, ‘b’, ‘c’}. Elements of both arrays are associated with each other i.e. the value of B[i] is linked to A[i] for all valid values of i. The task is to find the value min(a + b, c).
+16.Given an integer array A[] and a character array B[] of equal lengths where every character of the array is from the set {‘a’, ‘b’, ‘c’}. Elements of both arrays are associated with each other i.e. the _01_Basics.ASCIIValueOfx of B[i] is linked to A[i] for all valid values of i. The task is to find the _01_Basics.ASCIIValueOfx min(a + b, c).
 
 Examples:
 
@@ -46,7 +46,7 @@ Explanation: Step 1: Remove 5 and elements to its right
 
 19. Frequency of element in array.
 
-20.Given an array of even size, task is to find minimum value that can be added to an element so that array become balanced.
+20.Given an array of even size, task is to find minimum _01_Basics.ASCIIValueOfx that can be added to an element so that array become balanced.
 An array is balanced if the sum of the left half of the array elements is equal to the sum of right half. Suppose, we have an array 1 3 1 2 4 3.
 The Sum of first three elements is 1 + 3 + 1 = 5 and sum of last three elements is 2 + 4 + 3 = 9
 So this is unbalanced, to make it balanced the minimum number we can add is 4 to any element in first half.

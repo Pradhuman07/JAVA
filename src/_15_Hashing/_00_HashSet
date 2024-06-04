@@ -1,0 +1,26 @@
+            ==>[II]HashSet
+
+ ● HashSet is a data structure that implements the Set interface.
+ ● It does not allow duplicate elements.
+ ● It uses hashing to efficiently store and retrieve key-value pairs.
+ ● It can contain atmost one null element.
+ ● It does not maintain the insertion order.
+ ● It provides constant-time average complexity for basic operations.
+
+ Syntax:
+        HashSet<dataType> set = newHashSet<>();
+
+ Example:
+        HashSet<Integer>  set = newHashSet<>();
+
+ Operations on HashMap:-
+
+     ● Adding an element:add(data)
+     ● Remove:remove(value)
+     ● DeleteAll:clear()
+     ● Check if set contain particular key:contains(value)
+     ● iterator over all the values:iterator()
+     ● Size:size()
+
+- map me map.put(1,"abc");    ... map.containsValue(); / map.containsKey();
+- set me set.add(5);          ... set.contains();

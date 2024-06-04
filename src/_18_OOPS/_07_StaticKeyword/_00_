@@ -1,0 +1,22 @@
+-Static Keyword - Accessed via - "Class Name"
+
+--variables
+    --Can only be made at class level
+    --Gets loaded into memory with the first use of class.
+    --There will be only one copy for all the objects (Sharing of data-Architecture)
+    --Both static and non static methods can access static variables.
+
+--methods
+    --Both static and non static methods can invoke static methods.
+    --Should be invoked by class name.
+    --If tried to invoke via object's reference then reference name will be replaced by class name at runtime.
+    --Static method can not access instance fields & methods
+
+--static blocks
+    --Automatically Executed only once in lifetime of a class, right when the class is first used.
+    --First use of class can be a object creation or the static call.
+    --Can be used multiple times - Hierarchy will be followed
+
+--Initializer block
+    --Automatically executed only once in lifetime of an object, right before the constructor for each object
+    --Can be used multiple times - Hierarchy will be followed
