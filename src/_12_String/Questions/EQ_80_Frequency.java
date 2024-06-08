@@ -16,3 +16,5 @@ public class EQ_80_Frequency {
 }
 //constraint - all lower case and no space
 //very high TC
+
+//TC = 26*str.length()

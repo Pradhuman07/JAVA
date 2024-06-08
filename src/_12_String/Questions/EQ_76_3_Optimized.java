@@ -1,14 +1,21 @@
 package _12_String.Questions;
+
 public class EQ_76_3_Optimized {
     public static void main(String[] args) {
         String str = "DcgMPup";
 
         char[] ch = str.toCharArray();
 
-        for(int i=0 ; i<ch.length ; i++) {
+        for (int i = 0; i < ch.length; i++) {
             if (Character.isLowerCase(ch[i])) ch[i] = Character.toUpperCase(ch[i]);
             else ch[i] = Character.toLowerCase(ch[i]);
         }
+
+//Note:- ForEach Loop does not change the actual value in array
+//        for (char a : ch) {
+//            if (Character.isLowerCase(a)) a = Character.toUpperCase(a);
+//            else a = Character.toLowerCase(a);
+//        }
 
         System.out.println(new String(ch));
     }

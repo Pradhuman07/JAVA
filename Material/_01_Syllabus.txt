@@ -527,8 +527,10 @@ Day 45	--Inheritance
 
 Day 46	--Super and Constructor chaining
 			-- If we do not call the Parent class constructor by ourself then compiler will automatically call
-		   	   non-parameterized deafult constructor of Parent class & if we dont have such a constructor in Parent class then
-		          it will throw a syntax error.
+		   	   default constructor of Parent class & if we dont have such a constructor in Parent class then
+		          it will not throw a syntax error since internally it is present.
+		    --But if the parent class constructor has a parametrized constructor and no default constructor,
+		    then it will throw an syntax error whenever you call child class constructor(i.e creates its object)
 		--It means that, in our classes when we were creating constructor , the Parent class cons(the Object
 		   class) was automatically being called by compiler.
 

@@ -1,0 +1,13 @@
+Java Supports:-
+    1.Single Level Inheritance
+    2.Multi-Level Inheritance
+    3.Hierarchical Inheritance
+
+Does Not Supports:-
+    4.Multiple Inheritance  (class C extends A , extends B) (Error)
+    5.Hybrid Inheritance (Comb. of 2 or more types of Inheritance) (Hierarchical + Multiple)
+
+By Default, Every class inherits Object class i.e
+Object Class is the parent class of all the classes in java by default. (topmost class)
+
+Object class is also called Cosmic Class

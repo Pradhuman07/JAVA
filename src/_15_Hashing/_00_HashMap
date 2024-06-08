@@ -25,11 +25,26 @@
     Operations on HashMap:-
 
         -Adding an element:                         put(key,value)
-        -Replace or Update:                         replace(key,newValue)
+
         -Retrieve an element:                       get(key)
-        -Remove:                                    remove(key)
-        -DeleteAll:                                 clear()
+        -Retrieve a key from entry set:             getKey()
+
         -Check if map contain particular key:       containsKey(key)
         -Check if map contain particular value:     containsValue(key)
-        -Check if map is empty:                     isEmpty()
+
+        -get value if key exist else put default    getOrDefault(Key,DefaultValue)
         -Size:                                      size()
+
+        -Remove:                                    remove(key)
+        -Replace or Update:                         replace(key,newValue)
+        -DeleteAll:                                 clear()
+        -Check if map is empty:                     isEmpty()
+
+
+for(var a : map.entrySet()){
+    a.getValue();             //mtlb a key ki value nikalo  //(a) nhi likh skte
+}
+
+for(int a : arr){
+    map.get(a);                 //mtlb a key ki value nikalo
+}

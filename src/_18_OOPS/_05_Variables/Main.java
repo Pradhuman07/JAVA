@@ -10,7 +10,6 @@ public class Main {
         age = 21;
         Main.age = 31;
         age = 41;      //run time pr Main.age me convert hojyega
-
         obj.roll = 148;
     }
 }
