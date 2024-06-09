@@ -1,4 +1,4 @@
-package _15_Hashing;
+package _16_Hashing;
 import java.util.HashMap;
 public class EQ_84_Frequency_2 {
     public static void main(String[] args) {

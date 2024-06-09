@@ -1,4 +1,4 @@
-package _15_Hashing;
+package _16_Hashing;
 import java.util.HashMap;
 public class EQ_85_PrintOnlyUnique {
     public static void main(String[] args) {

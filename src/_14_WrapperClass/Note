@@ -1,0 +1,11 @@
+-Wrapper Class is a Object version of Primitive datatype.
+
+-Available for all the primitive data types:-
+    byte - Byte
+    short - Short
+    int - Integer
+    long - Long
+    float - Float
+    double - Double
+    char - Character
+    boolean - Boolean

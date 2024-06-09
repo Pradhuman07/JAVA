@@ -1,4 +1,4 @@
-package _15_Hashing;
+package _16_Hashing;
 public class EQ_86_to_90_on_LeetCode {
 }
 

@@ -8,7 +8,7 @@ class Teachers {
 
 //neeche bar bar likhne se acccha ek bar method bnalo ussi hi call krte rho
 
-    public void init(String n , int a , int r){
+    void init(String n , int a , int r){
         name = n;
         age = a;
         roll = r;
