@@ -1,0 +1,21 @@
+--Interface
+    --Can achieve total abstraction and Multiple inheritance
+    --Interface define contracts, which implementing classes need to honor.
+    --By default all methods are public and abstract
+    --It means that methods can only be declared.
+    --implements keyword
+
+--Extends & Implements keyword
+    --We can extends and implements at the same time
+    --Implements will come after extends because any number of interfaces can be implemented
+       but only one class can be inherited
+
+--Inheritace between class-class, class-interface, interface-interface
+
+--Object class ke bnte h..Inteface ke object nhi bnte
+
+--Abstraction is done in 2 ways..i)uisng Abstract class ii)uisng Interface
+Interface provides 100% security while Abstract class can't ...Reason:-
+    Interface have all the methods abstract while abstract class can have non-abstract method too
+
+--Class does not have multiple inheritance while Interface has

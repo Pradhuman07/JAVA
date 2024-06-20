@@ -20,7 +20,7 @@ public class Student {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter no. of objects: ");
+        System.out.println("Enter no. of Students(objects): ");
         int size = sc.nextInt();
 
         sc.nextLine();  //Dummy nextLine...bcoz line 23 ka enter line 32 me jarha tha
@@ -28,6 +28,8 @@ public class Student {
         Student[] arr = new Student[size];
 
         for(int i=0 ; i<arr.length ; i++){
+
+            System.out.println("Student " + (i+1) + ":-");
 
             System.out.println("Enter name: ");
             String name = sc.nextLine();

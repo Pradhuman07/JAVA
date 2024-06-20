@@ -67,7 +67,7 @@ Day 4	--Literal or constant
 					--boolean, allowed values - true or false
 					--char - UNICODE (ASCII is a subset of UNICODE)
 						--Range - 0 to 65,535
-						--char can hold a equivalent int _01_Basics.ASCIIValueOfx
+						--char can hold a equivalent int _01_Basics.Concept.More.ASCIIValueOfx
 						-- ' ' = 32 ; 0=48 ; A=65; a=97;
 			--Non Primitive
 				--User defined or Custom data types
@@ -125,10 +125,10 @@ Day 7	--Package
 
 		--Math class - Present inside java.lang
 
-			--abs(int a) - Returns the unsigned _01_Basics.ASCIIValueOfx
+			--abs(int a) - Returns the unsigned _01_Basics.Concept.More.ASCIIValueOfx
 			--floor(double a) - Returns the nearest lower whole number
 			--ceil(double a) - Returns the nearest higher whole number
-			--round(double a) - Returns the rounded off _01_Basics.ASCIIValueOfx
+			--round(double a) - Returns the rounded off _01_Basics.Concept.More.ASCIIValueOfx
 			--sqrt(double a) - Returns the square root of the given number
 			--cbrt(double a) - Returns the cube root of the number
 			--pow(double a, double b) - Returns a raised to the power of b
@@ -319,7 +319,7 @@ Day 29	--Arguments
 			--Formal Arguments
 			--Actual arguments
 		--Arguments Passing
-			--Pass by _01_Basics.ASCIIValueOfx
+			--Pass by _01_Basics.Concept.More.ASCIIValueOfx
 		--Passing Array Objects.
 		--Leetcode आरम्भ
 		--varargs
@@ -391,7 +391,7 @@ Day 32	--Overloading - Method, Constructor
 Day 33	--String API
 			--Just an Array of characters.
 		--Strings instances are immutable that is they can not be changed, however if u try to change the
-		   _01_Basics.ASCIIValueOfx a new instance/object will be created in the memory.
+		   _01_Basics.Concept.More.ASCIIValueOfx a new instance/object will be created in the memory.
 
 		--Strings literals
 			--String name = "Adarsh";
@@ -477,7 +477,7 @@ Day 42	--Making a Model
 				--Data members of a class must be private.
 		--Making a class read only
 		--Array of Objects
-		--Null _01_Basics.ASCIIValueOfx
+		--Null _01_Basics.Concept.More.ASCIIValueOfx
 		--Lifetime of object and Garbage Collector
 
 Day 43	--PROGRAMS ON OBJECT ORIENTED DESIGN

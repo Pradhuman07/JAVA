@@ -1,0 +1,28 @@
+--Exception Handling:-
+
+--Helps in defining robustness in java
+--API Heirarchy for Exceptions
+--Types
+    --Unchecked
+        --Thrown at Runtime
+    --checked
+        --must be handled at compile time
+--Keywords
+    --try
+        --Enwraps the exception proned code
+    --catch
+        --Catches the exception object and saves the program from crashing
+    --finally
+        --Executes every time irrespective of exception
+        --The major use of finally is resource de-allocation
+    --throw
+        --Use to generate a user defined exception
+    --throws
+        --Transfers the exception object to the caller method
+--printing exceptions
+    --obj.toString()
+    --obj.printStackTrace()
+    --obj.getMessege() -only cause
+
+
+    javatpoint

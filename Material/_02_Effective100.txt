@@ -54,7 +54,7 @@
 30- Print all the factors of a number.
 31- Print the sum of all factors of a number, 50 -> 1 + 2 + 5 + 10 + 25 = 43
 32- Check if the number is Prime or not.
-33- Write a program to take two inputs a, b & find the _01_Basics.ASCIIValueOfx of a  raised to the power of b.
+33- Write a program to take two inputs a, b & find the _01_Basics.Concept.More.ASCIIValueOfx of a  raised to the power of b.
 	Ex - a = 2, b = 5
 	OP - 2^5 = 32
 

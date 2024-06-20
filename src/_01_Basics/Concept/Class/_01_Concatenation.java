@@ -1,10 +1,10 @@
-package _01_Basics.Class;
-import java.lang.Math;
+package _01_Basics.Concept.Class;
+
 public class _01_Concatenation {
     public static void main(String[] args) {
         int a = 4, b = 7;
-        System.out.println("The sum is " + a + b);
-        System.out.println("The sum is " + (a + b));
+        System.out.println("The sum is " + a + b);      //47
+        System.out.println("The sum is " + (a + b));    //11
     }
 }
 

@@ -1,0 +1,21 @@
+--Abstraction
+			--Unimplemented or Semi implementation
+		--Abstract method	s
+			--must have a abstract keyword in declaration
+			--Abstract methods forces the class to be abstract.
+			--Abstract method do not hv any body.
+			--The derived class of an abstract class must override anstract methods of it.
+				OR
+			   Derived can also made abstract if dont want to override abstract methods
+			--Private methods can not be abstract otherwise we can not override them.
+			--Static methods can not be overridden because they are not part of the object's state.
+			   Rather, they belongs to the class
+
+		--Abstract class
+			--can be made without having an abstract method.
+			--can have final methods.
+			--Abstract classes are uninstantiable - It means we cant create object of abstract class
+			--They can have constructors
+				--when the cons will be called ?
+					--when an object of the child class is created.
+						--Constructor chaining up to Object's constructor

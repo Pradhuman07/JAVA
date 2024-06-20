@@ -11,9 +11,9 @@ public class EQ4_ProblemWithNextLineMethod {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter your age:");
-        int age = sc.nextInt();
+        int age = sc.nextInt();                   //18 + 'enter'... enter gya nextLine() mein;
 
-        sc.nextLine();    //Solution of the Problem....Dummy nextLine()
+        sc.nextLine();    //Solution of the Problem....Dummy nextLine()..ye enter ko khaa lega
 
         System.out.println("Enter your name");
         String name = sc.nextLine();

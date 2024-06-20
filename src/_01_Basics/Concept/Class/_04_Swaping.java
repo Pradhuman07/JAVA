@@ -1,7 +1,6 @@
-package _01_Basics.Class;
+package _01_Basics.Concept.Class;
 public class _04_Swaping {
     public static void main(String[] args) {
-
         //1.Using Third Variable
 
         int a=4,b=7;
