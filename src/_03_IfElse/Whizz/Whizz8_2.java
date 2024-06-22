@@ -1,12 +1,11 @@
 package _03_IfElse.Whizz;
 public class Whizz8_2 {
-//What is the output of the Java code ?
-
     public static void main(String[] args) {
+    //What is the output of the Java code ?
         int x = 11, y = 22;
 
-        if (x++ == 11 || ++y == 23) {
-            System.out.println(x + " " + y);
+        if (x++ == 11 || ++y == 23) {             //11==11 true ...aage nhi dekhege kyoki || lga h and true || x = true
+            System.out.println(x + " " + y);     //12,22
         }
         else {
             System.out.println(x + " " + y);

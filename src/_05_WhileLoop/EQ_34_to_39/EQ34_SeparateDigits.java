@@ -5,7 +5,7 @@ public class EQ34_SeparateDigits {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter a number:");
-        int n=sc.nextInt();   //123
+        int n = sc.nextInt();   //123
 
         while(n>0){
             System.out.println(n%10);  //3

@@ -4,7 +4,9 @@ import java.util.Scanner;
 public class EQ18_M2_Best_GreatestBWnNo {
     public static void main(String[] args) {
 
-//Greatest element of Array mein yhi kaam aayega..for loop lga denge bss + yha hm aasani se 3,4,5,6 numbers tk maximum nikal skte h bina kisi confusion ke
+//Greatest element of Array mein yhi kaam aayega..
+// for loop lga denge bss + yha hm aasani se 3,4,5,6 numbers
+// tk maximum nikal skte h bina kisi confusion ke
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter five numbers:-");

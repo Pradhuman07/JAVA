@@ -9,11 +9,10 @@ public class Q15_SumOfAbsoulteDifferences {
         int[] arr = {1,2,3,4};
         int sum = 0;
 
-        for(int i=0 ; i< arr.length ; i++){
-            for(int j=i+1 ; j< arr.length ; j++){
+        for(int i=0 ; i< arr.length ; i++)
+            for(int j=i+1 ; j< arr.length ; j++)
                 sum = sum + Math.abs(arr[i]-arr[j]);
-            }
-        }
+
         System.out.println(sum);
     }
 }

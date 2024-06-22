@@ -1,7 +1,5 @@
 package _05_WhileLoop.EQ_34_to_39;
-
 import java.util.Scanner;
-
 public class CountOfDigits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

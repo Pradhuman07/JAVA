@@ -10,10 +10,10 @@ public class EQ37_Pallindrome {
         int rev = 0;
 
         while(n>0){
-            int lastDigit = n%10 ;
-            rev = rev*10 + lastDigit;
+            rev = rev*10 + n%10;
             n/=10;
         }
+
         System.out.println(rev==dup ? "Palli":"Not Palli");
     }
 }

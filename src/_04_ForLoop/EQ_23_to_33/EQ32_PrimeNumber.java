@@ -8,8 +8,10 @@ public class EQ32_PrimeNumber {
         int num = sc.nextInt();
 
         int countOfFactors = 0;
-        for (int i=1 ; i<=num ; i++)
+
+        for(int i=1 ; i<=num ; i++)
             if(num%i==0) countOfFactors++;
+
         System.out.println(countOfFactors==2 ? "Prime" : "Not Prime");
     }
 }

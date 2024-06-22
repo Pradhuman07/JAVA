@@ -9,8 +9,8 @@ public class EQ35_SumOfDigits {
         int sum=0;
 
         while(n>0){
-            sum=sum+n%10;
-            n/=10;
+            sum += n%10;    //last se ek character keecha
+            n/=10;          //last se ek character remove kia
         }
         System.out.println(sum);
     }

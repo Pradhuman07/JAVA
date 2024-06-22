@@ -20,6 +20,8 @@ public class EQ33_MathPow {
             product=product*a;
 
 
-        System.out.print(a+"^"+b+"=" + product);
+        System.out.println(a+"^"+b+"=" + product);
+
+        System.out.println(Math.pow(a,b));
     }
 }

@@ -7,11 +7,9 @@ public class EQ28_Factorial_ProductAccumulator {
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
 
-        System.out.print("The Factorial of " + n + " is = ");
-
         int product = 1;   //Accumulator for Product
         for(int i=1; i<=n ; i++){
-            product = product*i;
+            product *= i;
         }
         System.out.println(product);
     }

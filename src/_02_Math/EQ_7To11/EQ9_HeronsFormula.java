@@ -6,15 +6,15 @@ import java.util.Scanner;
 public class EQ9_HeronsFormula {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         System.out.println("Enter sides a,b,c:- ");
+
         double a = sc.nextDouble();
         double b = sc.nextDouble();
         double c = sc.nextDouble();
 
-        double S = (a+b+c)/2;
-        System.out.println(S);
-        double Area = Math.sqrt(S*(S-a)*(S-b)*(S-c));
+        double S = (a+b+c)/2;   //int mt lga dena bhaiya
+
+        double Area = Math.sqrt(S*(S-a)*(S-b)*(S-c)); // A = ✔S(S-a)(S-b)(S-c)
 
         System.out.println("Area = " + Area);
         

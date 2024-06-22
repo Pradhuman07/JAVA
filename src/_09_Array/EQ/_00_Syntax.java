@@ -11,7 +11,7 @@ public class _00_Syntax {
         int[] arr = new int[n];
 
         for(int i=0; i<n ; i++){
-            System.out.println("Enter the Element at " + i);
+            System.out.println("Enter the Element at index" + i);
             arr[i] = sc.nextInt();
         }
 

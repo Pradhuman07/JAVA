@@ -3,12 +3,15 @@
 //Suppose, we have an array 1 3 1 2 4 3.
 //The Sum of first three elements is 1 + 3 + 1 = 5 and sum of last three elements is 2 + 4 + 3 = 9
 //So this is unbalanced, to make it balanced the minimum number we can add is 4 to any element in first half.
+
 //Examples :
 //Input : 1 2 1 2 1 3
 //Output : 2
+
 //Sum of first 3 elements is 1 + 2 + 1 = 4,
 //sum of last three elements is 2 + 1 + 3 = 6
 //To make the array balanced you can add 2.
+
 //Input : 20 10
 //Output : 10
 
@@ -24,6 +27,7 @@ public class Q20_BalanceArray {
             if(i< arr.length/2) sumLeft+=arr[i];
             else sumRight+=arr[i];
         }
+
         System.out.println(Math.abs(sumLeft-sumRight));
     }
 }

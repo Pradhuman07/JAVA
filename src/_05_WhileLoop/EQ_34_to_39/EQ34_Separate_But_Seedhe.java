@@ -9,7 +9,7 @@ public class EQ34_Separate_But_Seedhe {
         int rev = 0 ;
 
         while(n>0){
-            rev = rev*10 + n%10;
+            rev = rev*10 + n%10;    //sum = sum + n%10 ki jgh sum = sum*10 + n%10;
             n/=10;
         }
 

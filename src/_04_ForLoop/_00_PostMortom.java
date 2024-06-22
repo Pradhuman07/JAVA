@@ -39,11 +39,16 @@ public class _00_PostMortom {
 //        for(; i<30 ; ) System.out.println(i); // 20,20,20....infinity
 
 //        ------------------------------------------
-//        for(;;);
+//        for(int i=1 ; i>0 ; )
+//        System.out.println(i);
+//
+//        System.out.println("Hello");   //compiler yha tk kbi aa hi nhi paega pr error nhi dega kyoki he does not know for sure that i>0 always true
 
 //        ------------------------------------------
 //        for(byte j = -120 ; true ; j--)
 //          System.out.println(j);
+
+//        System.out.println("Hello");   //Error:- Unreachable statement //true means true always for sure
 
 //        ------------------------------------------
 //        for(int a = 1 ; a<4 ; a++);{
@@ -55,8 +60,10 @@ public class _00_PostMortom {
 //        System.out.println("Hello"); //Unreachable statement//
 
 //        ------------------------------------------
+
 //        for(int k = 1 ; k!=0 ;) System.out.println(k);
 //        System.out.println("Hello");
+
         //Ab Unreachable nhi aayega kyoki java compile time pr ye nhi bata skta ki this condition is always true to wo loop ko doda hi dega but agr hm true likh dete to java compile time pe hi bata deta
 //        ------------------------------------------
 //        for (int x = 0; false ; x++) ;   //syntax error..loop does not take false
@@ -66,7 +73,7 @@ public class _00_PostMortom {
 //            for ( ; a<=100 ; a/=10){
 //                System.out.println(a);   //Infinite Loop
 //            }
-//            System.out.println("Reaching? No but No error");
+//            System.out.println("Reaching? No ..but No error");
 
 //        ------------------------------------------
 

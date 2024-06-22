@@ -13,8 +13,8 @@ public class EQ29_Range_EvenOdd_Sum {
         int sumOfOdd=0;
 
         for(int i=Math.min(a,b) ; i<=Math.max(a,b) ; i++){
-            if(i%2==0) sumOfEven = sumOfEven + i;
-            else sumOfOdd = sumOfOdd + i;
+            if(i%2==0) sumOfEven += i;
+            else sumOfOdd += i;
         }
 
         System.out.println("Sum of Even numbers b/w " + a + " and " + b + " is:- " + sumOfEven);

@@ -17,5 +17,6 @@ public class EQ17_WeakDays {
         else if(n%7==0) System.out.println("Sunday");
 
         //Remember if Nr<Dr then Nr%Dr=Nr always
+        //2%7 = 2
     }
 }

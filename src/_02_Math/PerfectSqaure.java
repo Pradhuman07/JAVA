@@ -10,12 +10,12 @@ public class PerfectSqaure {
 
         n=16;
         boolean flag=false;
-        for (int i = 1; i <= (n/2); i++) {       //1-8
+        for (int i = 1; i*i<=n; i++) {       //1-8
             if (i * i == n) {
-                flag = true;   //sout("Perfect") krdoge to bar bar aaega
-                break;
+                flag = true;
+                break;          //break is must...without it wrong o/p
             }
         }
-        System.out.println(flag? "Perfect" : "Not Perfect ");
+        System.out.println(flag ? "Perfect" : "Not Perfect ");
     }
 }

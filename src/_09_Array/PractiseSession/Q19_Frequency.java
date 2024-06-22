@@ -1,5 +1,4 @@
 package _09_Array.PractiseSession;
-
 public class Q19_Frequency {
     public static void main(String[] args) {
         int[] arr = {1, 2, 1, 1, 2, 3, 4, 2, 4, 2, 3, 4, 2};
@@ -17,5 +16,6 @@ public class Q19_Frequency {
                 System.out.println(temp + " occurs " + count + " times.");
             }
         }
+
     }
 }

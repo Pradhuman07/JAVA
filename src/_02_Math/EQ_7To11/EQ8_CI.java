@@ -15,7 +15,7 @@ public class EQ8_CI {
         System.out.print("Enter Rate of Interest:- ");
         double r = sc.nextDouble();
 
-        double A = P * Math.pow((1+r/100),n);
+        double A = P * Math.pow((1+r/100),n);   // A = P(1+r/100)^n
 
         System.out.println("Amount = " + A);
     }
