@@ -28,8 +28,8 @@ public class _00_Methods {
         System.out.println(" ".isEmpty());    //false
 
         System.out.println("Hello".startsWith("H"));      //true
-        System.out.println("Hello".startsWith("Hello"));  //true
         System.out.println("Hello".endsWith("llo"));      //true
+        System.out.println("Hello".startsWith("Hello"));  //true
         System.out.println("Hello".endsWith("Hello"));    //true
 
         System.out.println("hello".equals("Hello"));                           //false

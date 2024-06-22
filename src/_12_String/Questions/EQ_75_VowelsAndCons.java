@@ -4,12 +4,12 @@ public class EQ_75_VowelsAndCons {
         String str = "HelloBuddy";
         int vc=0 , cc=0;
 
-        for (char c : str.toCharArray()) {
-            switch (c){                     //character pass kr rhe
+        for (char ch : str.toCharArray())
+            switch (ch){
                 case 'a','e','i','o','u' -> vc++;
                 default -> cc++;
             }
-        }
+
 
         System.out.println(vc);
         System.out.println(cc);

@@ -54,7 +54,7 @@ public class _01_HashMap {
             System.out.println(e);
         }
 
-        for(Integer e : map.keySet()){
+        for(int e : map.keySet()){
             System.out.println(e);
         }
 

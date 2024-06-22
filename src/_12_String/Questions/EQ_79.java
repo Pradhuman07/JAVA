@@ -5,9 +5,10 @@ package _12_String.Questions;
 public class EQ_79 {
     public static void main(String[] args) {
         String str = "Hello      bhai kaise ho a";
-        String[] arr = str.split(" ");
+        String[] arr = str.split(" ");          //[Hello, , , , , , bhai, kaise, ho, a]
         String ans = "";
-//        System.out.println(Arrays.toString(arr));  //see the empty elements..word.length()==0
+
+//      System.out.println(Arrays.toString(arr));  //see the empty elements..word.length()==0
 
         for(String word : arr) {
             if(word.length()==1)

@@ -15,7 +15,6 @@ public class EQ_84_Frequency {
         }
 
         System.out.println(map);
-        System.out.println(map);
         System.out.println(Arrays.toString(map.entrySet().toArray()));
     }
 }

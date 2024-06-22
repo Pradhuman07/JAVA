@@ -7,7 +7,7 @@ public class EQ_84_Frequency_2 {
         HashMap<Integer,Integer> map = new HashMap<>();
 
         for(int a : arr)
-            map.put(a , (map.getOrDefault(a,0)+1) );     //agr a mile to uski value +1 ..nhi to 0 +1
+            map.put(a , map.getOrDefault(a,0)+1 );     //agr a mile to uski value +1 ..nhi to 0 +1
 
         System.out.println(map);
 

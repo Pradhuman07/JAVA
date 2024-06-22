@@ -2,9 +2,11 @@ package _12_String.Concept;
 public class _03_NewStringConstructorArgument {
     public static void main(String[] args) {
         String Str = "hello";
-        System.out.println(Str);
 
         char[] ch = {'h','e','l','l','o'};
+
+        ch[0] = Character.toUpperCase(ch[0]);
+
         String str = new String(ch);        //What is String? It's an Array of Characters
 
         System.out.println(str);

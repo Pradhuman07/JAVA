@@ -4,17 +4,16 @@
 //                 Bhai
 //                 Kaise
 //                 Ho
-
 package _12_String.Questions;
 public class EQ_78 {
-
     public static void main(String[] args) {
-        String sentence = "Hello bhai kaise ho";
+        String str = "Hello      bhai kaise ho a";     //String
 
-        String[] arr = sentence.split(" ");
+        String[] arr = str.split(" ");      //String Array
 
         for(String word : arr)
-            System.out.println(Character.toUpperCase(word.charAt(0)) + word.substring(1));
+            if(word.length()>0)
+             System.out.println(Character.toUpperCase(word.charAt(0)) + word.substring(1));
 
     }
 }

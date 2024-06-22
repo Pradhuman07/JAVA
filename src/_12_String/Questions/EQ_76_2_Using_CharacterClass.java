@@ -4,9 +4,9 @@ public class EQ_76_2_Using_CharacterClass {
         String str = "DcgMPup";
         String ans = "";
 
-        for(char c : str.toCharArray()){
-            if(Character.isUpperCase(c)) ans = ans + Character.toLowerCase(c);
-            else  ans = ans + Character.toUpperCase(c);
+        for(char ch : str.toCharArray()){
+            if(Character.isUpperCase(ch)) ans = ans + Character.toLowerCase(ch);
+            else  ans = ans + Character.toUpperCase(ch);
         }
 
         System.out.println(ans);

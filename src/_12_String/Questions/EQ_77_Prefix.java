@@ -5,15 +5,13 @@ public class EQ_77_Prefix {
         String prefix = "at";
         int count=0;
 
-
-        for(int i=0 ; i< arr.length ; i++)
-            if(arr[i].startsWith(prefix)) count++;
-
-        //--------or------------------
-
         for(String word : arr)
             if(word.startsWith(prefix)) count++;
 
+        //--------or------------------
+
+        for(int i=0 ; i< arr.length ; i++)
+            if(arr[i].startsWith(prefix)) count++;
 
         System.out.println(count);
     }

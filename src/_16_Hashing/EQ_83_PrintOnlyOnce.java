@@ -7,9 +7,8 @@ public class EQ_83_PrintOnlyOnce {
 
         HashSet<Integer> set = new HashSet<>();
 
-        for(int a : arr){
+        for(int a : arr)
             set.add(a);
-        }
 
         System.out.println(set);
 

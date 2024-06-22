@@ -4,9 +4,9 @@ public class EQ_73_Pallindrome {
         String str = "madam";
         String ans = "";
 
-        for (int i = str.length()-1; i>=0 ; i--) {
+        for (int i = str.length()-1; i>=0 ; i--)
             ans = ans + str.charAt(i);
-        }
+
         System.out.println( str.equals(ans) ? "Palin" : "Not Palin" );
     }
 }

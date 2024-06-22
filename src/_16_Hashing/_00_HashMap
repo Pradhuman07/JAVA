@@ -3,6 +3,7 @@
   Hashing is a technique or process that allows for efficient operations,
   such as insertion, deletion, and searching, with an average constant
   time complexity of O(1).
+  {Eg:- set.contains(5) ? ek bar me ans..jbki array mein traverse krna pdta}
 
         -HashMap and HashSet are the Key components of hashing.
 

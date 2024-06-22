@@ -1,5 +1,5 @@
 package _12_String.Questions;
-public class EQ_79_z3 {
+public class EQ_79_z3_UsingMethod {
 
     private static String capitalizeEachWord(String word) {
         char[] ch = word.toCharArray();
@@ -10,11 +10,14 @@ public class EQ_79_z3 {
 
     public static void main(String[] args) {
         String s = "Hello      bhai kaise Ho a";
+
         String[] words = s.split(" ");
+
         String ans = "";
 
-        for (String word : words)
-            if(word.length()>0) ans = ans + capitalizeEachWord(word) + " ";
+        for(String word : words)
+            if(word.length()>0)
+                ans = ans + capitalizeEachWord(word) + " ";
 
         System.out.println(ans.trim());
     }
