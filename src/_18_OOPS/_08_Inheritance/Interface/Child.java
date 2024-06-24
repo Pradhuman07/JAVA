@@ -1,4 +1,4 @@
-package _18_OOPS._08_Inheritance._05_Interface;
+package _18_OOPS._08_Inheritance.Interface;
 
 class Parent{
     Parent(){
@@ -12,6 +12,7 @@ public class Child extends Parent{
     public static void main(String[] args) {
 //        Child obj = new Child();
 //        Set<Integer> obj = new HashSet<>();
+
           Parent obj = new Child();    //Parent ka reference leke Child ka object bna skte h koi dikkt wli baat nhi
           //but calling child ka cons..however child ka cons will first call parent ka cons
     }

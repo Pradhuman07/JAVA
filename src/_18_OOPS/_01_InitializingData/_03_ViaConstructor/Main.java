@@ -5,7 +5,7 @@ public class Main {
     int age;
     char gender;
 
-    public Main(String name, int age, char gender) {     //Constructor
+    Main(String name, int age, char gender) {     //Constructor
         this.name = name;           //this refers to the current calling object
         this.age = age;             //this = current called obj
         this.gender = gender;       //obj1.name //obj2.name ki jgh this.name

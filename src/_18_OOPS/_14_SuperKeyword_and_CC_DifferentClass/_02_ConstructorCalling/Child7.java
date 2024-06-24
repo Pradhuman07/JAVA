@@ -1,4 +1,4 @@
-package _18_OOPS._08_Inheritance._04_SuperKeyword._02_ConstructorCalling;
+package _18_OOPS._14_SuperKeyword_and_CC_DifferentClass._02_ConstructorCalling;
 
 class Parent7 {
     Parent7(int a) {
@@ -6,14 +6,15 @@ class Parent7 {
         System.out.println("Parent7 , Parametrized constructor");
     }
     Parent7(){
+        this(78);
         System.out.println("Parent7,Default");
     }
 }
 
 public class Child7 extends Parent7 {
     Child7() {
-        super(10);
-//        super(); //not possible to call both
+        super(); //not possible to call both ... why?
+//        super(10);
         System.out.println("Child7 Class,Default Constructor");
     }
 

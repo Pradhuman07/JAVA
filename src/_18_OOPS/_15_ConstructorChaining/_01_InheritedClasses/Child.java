@@ -1,4 +1,4 @@
-package _18_OOPS._08_Inheritance._04_SuperKeyword._03_ConstructorChaining._01_InheritedClasses;
+package _18_OOPS._15_ConstructorChaining._01_InheritedClasses;
 
 class GrandParent{
     GrandParent(){

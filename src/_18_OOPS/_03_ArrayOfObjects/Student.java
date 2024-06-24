@@ -25,7 +25,7 @@ public class Student {
 
         sc.nextLine();  //Dummy nextLine...bcoz line 23 ka enter line 32 me jarha tha
 
-        Student[] arr = new Student[size];
+        Student[] arr = new Student[size];    //Array of Objects...Remember DT of Object is class...int[] arr = new int[];
 
         for(int i=0 ; i<arr.length ; i++){
 
@@ -42,13 +42,13 @@ public class Student {
             System.out.println("Enter branch: ");
             String branch = sc.nextLine();
 
-//          Main obj = new Main(name , age , branch);
+//          Student obj = new Student(name , age , branch);
 //          arr[i] = obj;
 
             arr[i] = new Student(name , age , branch);
         }
 
-        for(Student obj : arr){
+        for(Student obj : arr){           //arr ke andr jo elements h unka DT is Class
             System.out.println(obj);
         }
     }

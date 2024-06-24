@@ -1,4 +1,4 @@
-package _18_OOPS._08_Inheritance._04_SuperKeyword.X;
+package _18_OOPS._14_SuperKeyword_and_CC_DifferentClass.X;
 
 class  A{
     int age=4;

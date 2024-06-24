@@ -1,4 +1,4 @@
-package _11_JCM;
+package _11_JCM.JCM1;
 import java.util.Arrays;
 public class B1_On2 {
     public static void main(String[] args) {

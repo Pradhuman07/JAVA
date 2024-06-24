@@ -1,12 +1,14 @@
 package _18_OOPS._09_MethodOverriding;
 
 class A{
-    private void greet(){
+     void greet(){
         System.out.println("Hello A");
     }
 }
+
+//"If you are overriding a method , the overriden method can not be more restrictive."
 public class Rank extends A {
-    protected void greet(){
+    protected void greet(){            //private likhte to error aati
         System.out.println("Hello A");
     }
 
@@ -24,3 +26,4 @@ public class Rank extends A {
 //Parent - default     ,    child - default/protected/public
 //Parent - protected   ,    child - protected/public
 //Parent - public      ,    child - public
+

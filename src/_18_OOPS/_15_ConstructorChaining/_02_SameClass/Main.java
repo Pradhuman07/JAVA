@@ -1,4 +1,4 @@
-package _18_OOPS._08_Inheritance._04_SuperKeyword._03_ConstructorChaining._02_SameClass;
+package _18_OOPS._15_ConstructorChaining._02_SameClass;
 public class Main {
     int age;
 

@@ -21,11 +21,11 @@ class Lion extends Animal{
 public class Main {
     public static void main(String[] args) {
         Dog obj = new Dog();
-        obj.speaks();
         obj.barks();
+        obj.speaks();
 
         Lion obk = new Lion();
-        obk.speaks();
         obk.roar();
+        obk.speaks();
     }
 }

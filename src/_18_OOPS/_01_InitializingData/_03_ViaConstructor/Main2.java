@@ -5,7 +5,7 @@ public class Main2 {
     int age;
     char gender;
 
-    public Main2(String name, int age, char gender) {
+    Main2(String name, int age, char gender) {
         this.name = name;      //this. mtlb current calling object...mtlb this.name=instance variable
         this.age = age;
         this.gender = gender;
@@ -17,9 +17,9 @@ public class Main2 {
 
     public static void main(String[] args) {
         Main2 obj1 = new Main2("Rahul" , 21 , 'M');
-        Main2 obj2 = new Main2("Ritu" , 19 , 'F');
+        Main2 obj2 = new Main2("Ritu"  , 19 , 'F');
 
-        System.out.println(obj1);
+        System.out.println(obj1);             //calling to String
         System.out.println(obj2);
     }
 }

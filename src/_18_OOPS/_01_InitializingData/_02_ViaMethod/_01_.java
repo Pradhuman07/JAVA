@@ -1,12 +1,9 @@
 package _18_OOPS._01_InitializingData._02_ViaMethod;
-
 class Teachers {
 
     String name;
     int age;
     int roll;
-
-//neeche bar bar likhne se acccha ek bar method bnalo ussi hi call krte rho
 
     void init(String n , int a , int r){
         name = n;

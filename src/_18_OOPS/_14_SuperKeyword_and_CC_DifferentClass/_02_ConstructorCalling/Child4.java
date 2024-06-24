@@ -1,4 +1,4 @@
-package _18_OOPS._08_Inheritance._04_SuperKeyword._02_ConstructorCalling;
+package _18_OOPS._14_SuperKeyword_and_CC_DifferentClass._02_ConstructorCalling;
 
 class Parent4 {
 
@@ -12,3 +12,5 @@ public class Child4 extends Parent4 {
         Child4 obj = new Child4();
     }
 }
+
+//pehle parent class ka internal constructor call hua hoga internaly

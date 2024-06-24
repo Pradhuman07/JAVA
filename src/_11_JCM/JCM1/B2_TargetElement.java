@@ -1,4 +1,4 @@
-package _11_JCM;
+package _11_JCM.JCM1;
 import java.util.Scanner;
 public class B2_TargetElement {
     public static void main(String[] args) {

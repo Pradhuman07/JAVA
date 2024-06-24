@@ -1,13 +1,16 @@
 package _18_OOPS._07_StaticKeyword;
 public class _01_Variable {
-    static int age;
+    static int age=3;
 
     void fun(){   //non-static method
-        age = 14;
+        System.out.println(age);
     }
 
     public static void main(String[] args) {    //static method
         age = 21;
+
+        _01_Variable obj = new _01_Variable();
+        obj.fun();
     }
 
 

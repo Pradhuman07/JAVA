@@ -1,4 +1,4 @@
-package _18_OOPS._08_Inheritance._04_SuperKeyword._02_ConstructorCalling;
+package _18_OOPS._14_SuperKeyword_and_CC_DifferentClass._02_ConstructorCalling;
 
 class Parent2 {
     Parent2() {

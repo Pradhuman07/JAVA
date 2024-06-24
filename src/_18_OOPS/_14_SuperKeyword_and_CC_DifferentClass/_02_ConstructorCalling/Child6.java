@@ -1,10 +1,14 @@
-package _18_OOPS._08_Inheritance._04_SuperKeyword._02_ConstructorCalling;
+package _18_OOPS._14_SuperKeyword_and_CC_DifferentClass._02_ConstructorCalling;
 
 class Parent6 {
+
     Parent6(int a) {
         System.out.println(a);
         System.out.println("Parent6 , Parametrized constructor");
     }
+//    Parent6() {    //no use
+//        System.out.println("Parent6 , Parametrized constructor");
+//    }
 }
 
 public class Child6 extends Parent6 {
