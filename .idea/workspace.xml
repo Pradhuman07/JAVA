@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e4a84bd-704f-4974-8d40-33e661dd2bbf" name="Changes" comment="New Files">
-      <change afterPath="$PROJECT_DIR$/Material/Whizz/29 Constructor Chaining.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_11_JCM/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_18_OOPS/_02_MethodOverloading/Hey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_18_OOPS/_02_MethodOverloading/_03_ConstructorOverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_18_OOPS/_13_ThisKeyWord_and_Constructor_Overloading_and_Chaining/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_18_OOPS/_15_ConstructorChaining/_03_ThisPlusSuper/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_18_OOPS/_15_DifferenceBetweenThisAndSuper" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_JCM/A1_BakwasTha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_JCM/JCM1/A1_BakwasTha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_JCM/A2_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_JCM/JCM1/A2_Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_JCM/A3_AbundantNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_JCM/JCM1/A3_AbundantNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_JCM/B1_On2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_JCM/JCM1/B1_On2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_JCM/B1_RunningSum_On.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_JCM/JCM1/B1_RunningSum_On.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_JCM/B2_TargetElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_JCM/JCM1/B2_TargetElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_11_JCM/JCM.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/_11_JCM/JCM1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_01_InitializingData/_02_ViaMethod/_01_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_01_InitializingData/_02_ViaMethod/_01_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_01_InitializingData/_03_ViaConstructor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_01_InitializingData/_03_ViaConstructor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_01_InitializingData/_03_ViaConstructor/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_01_InitializingData/_03_ViaConstructor/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_02_MethodOverloading/_02_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_02_MethodOverloading/_02_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_02_MethodOverloading/_03_ConstructorOverLoadingAndThisKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_03_ArrayOfObjects/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_03_ArrayOfObjects/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_05_Variables/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_05_Variables/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_07_StaticKeyword/_01_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_07_StaticKeyword/_01_Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_07_StaticKeyword/_02_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_07_StaticKeyword/_02_Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_07_StaticKeyword/_04_Initializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_07_StaticKeyword/_04_Initializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_01_SingleLevel/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_01_SingleLevel/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_03_Hierarchical/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_03_Hierarchical/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/X/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_14_SuperKeyword_and_CC_DifferentClass/X/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/_01_MethodCalling/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_14_SuperKeyword_and_CC_DifferentClass/_01_MethodCalling/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/_02_ConstructorCalling/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_14_SuperKeyword_and_CC_DifferentClass/_02_ConstructorCalling/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/_02_ConstructorCalling/Child2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_14_SuperKeyword_and_CC_DifferentClass/_02_ConstructorCalling/Child2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/_02_ConstructorCalling/Child3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_14_SuperKeyword_and_CC_DifferentClass/_02_ConstructorCalling/Child3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/_02_ConstructorCalling/Child4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_14_SuperKeyword_and_CC_DifferentClass/_02_ConstructorCalling/Child4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/_02_ConstructorCalling/Child5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_14_SuperKeyword_and_CC_DifferentClass/_02_ConstructorCalling/Child5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/_02_ConstructorCalling/Child6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_14_SuperKeyword_and_CC_DifferentClass/_02_ConstructorCalling/Child6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/_02_ConstructorCalling/Child7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_14_SuperKeyword_and_CC_DifferentClass/_02_ConstructorCalling/Child7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/_03_ConstructorChaining/_01_InheritedClasses/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_15_ConstructorChaining/_01_InheritedClasses/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_04_SuperKeyword/_03_ConstructorChaining/_02_SameClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_15_ConstructorChaining/_02_SameClass/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/_05_Interface/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_08_Inheritance/Interface/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_OOPS/_09_MethodOverriding/Rank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_OOPS/_09_MethodOverriding/Rank.java" afterDir="false" />
-    </list>
+    <list default="true" id="5e4a84bd-704f-4974-8d40-33e661dd2bbf" name="Changes" comment="New Files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -790,7 +749,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719067582919</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="New Files">
+      <option name="closed" value="true" />
+      <created>1719257580408</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1719257580408</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
