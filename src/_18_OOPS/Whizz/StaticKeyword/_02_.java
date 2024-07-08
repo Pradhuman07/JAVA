@@ -1,4 +1,4 @@
-package _30_Whizz._27_StaticKeyword;
+package _18_OOPS.Whizz.StaticKeyword;
 
 class static_out {
     static int x;            //global variable

@@ -1,4 +1,7 @@
 package _12_String.Questions;
+
+import java.util.Arrays;
+
 public class EQ_79_z3_UsingMethod {
 
     private static String capitalizeEachWord(String word) {
@@ -9,16 +12,24 @@ public class EQ_79_z3_UsingMethod {
     }
 
     public static void main(String[] args) {
-        String s = "Hello      bhai kaise Ho a";
+        String s = "Hello      bhai kaise Ho a      ";
 
         String[] words = s.split(" ");
 
-        String ans = "";
+        System.out.println(Arrays.toString(words));
+        System.out.println(words[3]);
+        System.out.println(words[3].length());
+        System.out.println(words.length);
 
-        for(String word : words)
-            if(word.length()>0)
-                ans = ans + capitalizeEachWord(word) + " ";
+        System.out.println(words[words.length-1]);
+        System.out.println(words[words.length-1].length());
 
-        System.out.println(ans.trim());
+//        String ans = "";
+//
+//        for(String word : words)
+//            if(word.length()>0)
+//                ans = ans + capitalizeEachWord(word) + " ";
+//
+//        System.out.println(ans.trim());
     }
 }

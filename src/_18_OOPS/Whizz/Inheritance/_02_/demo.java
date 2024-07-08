@@ -1,4 +1,4 @@
-package _30_Whizz._28_Inheritance._02_;
+package _18_OOPS.Whizz.Inheritance._02_;
 
 class A {
     int i;

@@ -3,13 +3,14 @@ import java.util.Scanner;
 public class EQ44_GuessGame {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int maxTry = 10;
+        int maxTry = 3;
 
         int key = (int)(Math.random()*100) + 1;
 
         do {
             if(maxTry==0){
-                System.out.println("Samey samapt");
+                System.out.println("Sorry,No trials left." +
+                        "You Lost!");
                 break;
             }
 

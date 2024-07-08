@@ -1,4 +1,4 @@
-package _30_Whizz._27_StaticKeyword;
+package _18_OOPS.Whizz.StaticKeyword;
 
 class Test1 {
     static int x = 10;

@@ -10,12 +10,13 @@ public class _19_PositiveNegativeSeparation {
         while(i<j){
             while(i<arr.length && arr[i]<0) i++;
             while(j>=0 && arr[j]>0) j--;
-
             if(i<j){
                 int temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
             }
+            i++;   //ab hogya na wo wala swap to aage badho
+            j--;
         }
 
         System.out.println(Arrays.toString(arr));
