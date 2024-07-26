@@ -1,5 +1,0 @@
-package _08_PatternPrinting._05_CT;
-public class _15_CraftedDiamond
-{
-    
-}
